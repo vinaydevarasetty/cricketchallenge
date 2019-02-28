@@ -6,11 +6,11 @@
 
 ### Data Selection
 
-Sources: https://cricsheet.org/, http://www.espncricinfo.com/
-Format: CSV
-Match Type: ODI
-Time Period: 2009-2019
-Data: Batting, Bowling, Summary
+- Sources: https://cricsheet.org/, http://www.espncricinfo.com/
+- Format: CSV
+- Match Type: ODI
+- Time Period: 2009-2019
+- Data: Batting, Bowling, Summary
 
 ### Data Cleansing
 
