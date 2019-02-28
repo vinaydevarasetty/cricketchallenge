@@ -43,6 +43,7 @@ India
 
 #### Series Outcome
 Match | Date | Location | Winner
+----- | ---- | --------- | -----
 ODI 1 | 02 Mar | Hyderabad | India
 ODI 2 | 05 Mar | Nagpur |  India
 ODI 3 | 08 Mar | Ranchi |  Aus
