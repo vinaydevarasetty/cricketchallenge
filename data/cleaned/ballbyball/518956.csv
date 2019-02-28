@@ -1,0 +1,382 @@
+,a,b,c,d,e,f,g,h,i,j,k,teams_playing,date_played
+20,ball,1,0.1,Australia,MS Wade,DA Warner,P Kumar,1.0,0.0,,,Australia_India,2012/02/05
+21,ball,1,0.2,Australia,DA Warner,MS Wade,P Kumar,0.0,1.0,,,Australia_India,2012/02/05
+22,ball,1,0.3,Australia,DA Warner,MS Wade,P Kumar,1.0,0.0,,,Australia_India,2012/02/05
+23,ball,1,0.4,Australia,MS Wade,DA Warner,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+24,ball,1,0.5,Australia,MS Wade,DA Warner,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+25,ball,1,0.6,Australia,MS Wade,DA Warner,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+26,ball,1,0.7,Australia,MS Wade,DA Warner,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+27,ball,1,1.1,Australia,DA Warner,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+28,ball,1,1.2,Australia,DA Warner,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+29,ball,1,1.3,Australia,DA Warner,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+30,ball,1,1.4,Australia,DA Warner,MS Wade,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+31,ball,1,1.5,Australia,MS Wade,DA Warner,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+32,ball,1,1.6,Australia,MS Wade,DA Warner,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+33,ball,1,2.1,Australia,DA Warner,MS Wade,P Kumar,3.0,0.0,,,Australia_India,2012/02/05
+34,ball,1,2.2,Australia,MS Wade,DA Warner,P Kumar,1.0,0.0,,,Australia_India,2012/02/05
+35,ball,1,2.3,Australia,DA Warner,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+36,ball,1,2.4,Australia,DA Warner,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+37,ball,1,2.5,Australia,DA Warner,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+38,ball,1,2.6,Australia,DA Warner,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+39,ball,1,3.1,Australia,MS Wade,DA Warner,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+40,ball,1,3.2,Australia,DA Warner,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+41,ball,1,3.3,Australia,DA Warner,MS Wade,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+42,ball,1,3.4,Australia,MS Wade,DA Warner,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+43,ball,1,3.5,Australia,MS Wade,DA Warner,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+44,ball,1,3.6,Australia,DA Warner,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+45,ball,1,4.1,Australia,MS Wade,DA Warner,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+46,ball,1,4.2,Australia,MS Wade,DA Warner,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+47,ball,1,4.3,Australia,MS Wade,DA Warner,P Kumar,4.0,0.0,,,Australia_India,2012/02/05
+48,ball,1,4.4,Australia,MS Wade,DA Warner,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+49,ball,1,4.5,Australia,MS Wade,DA Warner,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+50,ball,1,4.6,Australia,MS Wade,DA Warner,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+51,ball,1,5.1,Australia,DA Warner,MS Wade,R Vinay Kumar,0.0,0.0,bowled,DA Warner,Australia_India,2012/02/05
+52,ball,1,5.2,Australia,RT Ponting,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+53,ball,1,5.3,Australia,RT Ponting,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+54,ball,1,5.4,Australia,RT Ponting,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+55,ball,1,5.5,Australia,RT Ponting,MS Wade,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+56,ball,1,5.6,Australia,MS Wade,RT Ponting,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+57,ball,1,6.1,Australia,RT Ponting,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+58,ball,1,6.2,Australia,RT Ponting,MS Wade,P Kumar,1.0,0.0,,,Australia_India,2012/02/05
+59,ball,1,6.3,Australia,MS Wade,RT Ponting,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+60,ball,1,6.4,Australia,MS Wade,RT Ponting,P Kumar,1.0,0.0,,,Australia_India,2012/02/05
+61,ball,1,6.5,Australia,RT Ponting,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+62,ball,1,6.6,Australia,RT Ponting,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+63,ball,1,7.1,Australia,MS Wade,RT Ponting,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+64,ball,1,7.2,Australia,RT Ponting,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+65,ball,1,7.3,Australia,RT Ponting,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+66,ball,1,7.4,Australia,RT Ponting,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+67,ball,1,7.5,Australia,RT Ponting,MS Wade,R Vinay Kumar,0.0,0.0,caught,RT Ponting,Australia_India,2012/02/05
+68,ball,1,7.6,Australia,MJ Clarke,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+69,ball,1,8.1,Australia,MS Wade,MJ Clarke,P Kumar,1.0,0.0,,,Australia_India,2012/02/05
+70,ball,1,8.2,Australia,MJ Clarke,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+71,ball,1,8.3,Australia,MJ Clarke,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+72,ball,1,8.4,Australia,MJ Clarke,MS Wade,P Kumar,2.0,0.0,,,Australia_India,2012/02/05
+73,ball,1,8.5,Australia,MJ Clarke,MS Wade,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+74,ball,1,8.6,Australia,MJ Clarke,MS Wade,P Kumar,1.0,0.0,,,Australia_India,2012/02/05
+75,ball,1,9.1,Australia,MJ Clarke,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+76,ball,1,9.2,Australia,MJ Clarke,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+77,ball,1,9.3,Australia,MJ Clarke,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+78,ball,1,9.4,Australia,MJ Clarke,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+79,ball,1,9.5,Australia,MJ Clarke,MS Wade,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+80,ball,1,9.6,Australia,MJ Clarke,MS Wade,R Vinay Kumar,2.0,0.0,,,Australia_India,2012/02/05
+81,ball,1,10.1,Australia,MS Wade,MJ Clarke,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+82,ball,1,10.2,Australia,MS Wade,MJ Clarke,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+83,ball,1,10.3,Australia,MS Wade,MJ Clarke,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+84,ball,1,10.4,Australia,MS Wade,MJ Clarke,P Kumar,0.0,0.0,,,Australia_India,2012/02/05
+85,ball,1,10.5,Australia,MS Wade,MJ Clarke,P Kumar,6.0,0.0,,,Australia_India,2012/02/05
+86,ball,1,10.6,Australia,MS Wade,MJ Clarke,P Kumar,4.0,0.0,,,Australia_India,2012/02/05
+87,ball,1,11.1,Australia,MJ Clarke,MS Wade,V Kohli,0.0,0.0,,,Australia_India,2012/02/05
+88,ball,1,11.2,Australia,MJ Clarke,MS Wade,V Kohli,0.0,0.0,,,Australia_India,2012/02/05
+89,ball,1,11.3,Australia,MJ Clarke,MS Wade,V Kohli,1.0,0.0,,,Australia_India,2012/02/05
+90,ball,1,11.4,Australia,MS Wade,MJ Clarke,V Kohli,0.0,1.0,,,Australia_India,2012/02/05
+91,ball,1,11.5,Australia,MS Wade,MJ Clarke,V Kohli,0.0,0.0,,,Australia_India,2012/02/05
+92,ball,1,11.6,Australia,MS Wade,MJ Clarke,V Kohli,0.0,0.0,,,Australia_India,2012/02/05
+93,ball,1,11.7,Australia,MS Wade,MJ Clarke,V Kohli,2.0,0.0,,,Australia_India,2012/02/05
+94,ball,1,12.1,Australia,MJ Clarke,MS Wade,SK Raina,1.0,0.0,,,Australia_India,2012/02/05
+95,ball,1,12.2,Australia,MS Wade,MJ Clarke,SK Raina,0.0,0.0,,,Australia_India,2012/02/05
+96,ball,1,12.3,Australia,MS Wade,MJ Clarke,SK Raina,1.0,0.0,,,Australia_India,2012/02/05
+97,ball,1,12.4,Australia,MJ Clarke,MS Wade,SK Raina,1.0,0.0,,,Australia_India,2012/02/05
+98,ball,1,12.5,Australia,MS Wade,MJ Clarke,SK Raina,1.0,0.0,,,Australia_India,2012/02/05
+99,ball,1,12.6,Australia,MJ Clarke,MS Wade,SK Raina,0.0,0.0,,,Australia_India,2012/02/05
+100,ball,1,13.1,Australia,MS Wade,MJ Clarke,R Ashwin,0.0,0.0,,,Australia_India,2012/02/05
+101,ball,1,13.2,Australia,MS Wade,MJ Clarke,R Ashwin,2.0,0.0,,,Australia_India,2012/02/05
+102,ball,1,13.3,Australia,MS Wade,MJ Clarke,R Ashwin,0.0,0.0,,,Australia_India,2012/02/05
+103,ball,1,13.4,Australia,MS Wade,MJ Clarke,R Ashwin,0.0,0.0,,,Australia_India,2012/02/05
+104,ball,1,13.5,Australia,MS Wade,MJ Clarke,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+105,ball,1,13.6,Australia,MJ Clarke,MS Wade,R Ashwin,0.0,0.0,,,Australia_India,2012/02/05
+106,ball,1,14.1,Australia,MS Wade,MJ Clarke,RG Sharma,0.0,0.0,,,Australia_India,2012/02/05
+107,ball,1,14.2,Australia,MS Wade,MJ Clarke,RG Sharma,1.0,0.0,,,Australia_India,2012/02/05
+108,ball,1,14.3,Australia,MJ Clarke,MS Wade,RG Sharma,2.0,0.0,,,Australia_India,2012/02/05
+109,ball,1,14.4,Australia,MJ Clarke,MS Wade,RG Sharma,0.0,0.0,caught,MJ Clarke,Australia_India,2012/02/05
+110,ball,1,14.5,Australia,MEK Hussey,MS Wade,RG Sharma,0.0,0.0,,,Australia_India,2012/02/05
+111,ball,1,14.6,Australia,MEK Hussey,MS Wade,RG Sharma,1.0,0.0,,,Australia_India,2012/02/05
+112,ball,1,15.1,Australia,MEK Hussey,MS Wade,R Ashwin,0.0,0.0,,,Australia_India,2012/02/05
+113,ball,1,15.2,Australia,MEK Hussey,MS Wade,R Ashwin,2.0,0.0,,,Australia_India,2012/02/05
+114,ball,1,15.3,Australia,MEK Hussey,MS Wade,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+115,ball,1,15.4,Australia,MS Wade,MEK Hussey,R Ashwin,3.0,0.0,,,Australia_India,2012/02/05
+116,ball,1,15.5,Australia,MEK Hussey,MS Wade,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+117,ball,1,15.6,Australia,MS Wade,MEK Hussey,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+118,ball,1,16.1,Australia,MS Wade,MEK Hussey,RG Sharma,0.0,0.0,,,Australia_India,2012/02/05
+119,ball,1,16.2,Australia,MS Wade,MEK Hussey,RG Sharma,2.0,0.0,,,Australia_India,2012/02/05
+120,ball,1,16.3,Australia,MS Wade,MEK Hussey,RG Sharma,4.0,0.0,,,Australia_India,2012/02/05
+121,ball,1,16.4,Australia,MS Wade,MEK Hussey,RG Sharma,1.0,0.0,,,Australia_India,2012/02/05
+122,ball,1,16.5,Australia,MEK Hussey,MS Wade,RG Sharma,2.0,0.0,,,Australia_India,2012/02/05
+123,ball,1,16.6,Australia,MEK Hussey,MS Wade,RG Sharma,4.0,0.0,,,Australia_India,2012/02/05
+124,ball,1,17.1,Australia,MS Wade,MEK Hussey,R Ashwin,0.0,0.0,,,Australia_India,2012/02/05
+125,ball,1,17.2,Australia,MS Wade,MEK Hussey,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+126,ball,1,17.3,Australia,MEK Hussey,MS Wade,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+127,ball,1,17.4,Australia,MS Wade,MEK Hussey,R Ashwin,2.0,0.0,,,Australia_India,2012/02/05
+128,ball,1,17.5,Australia,MS Wade,MEK Hussey,R Ashwin,4.0,0.0,,,Australia_India,2012/02/05
+129,ball,1,17.6,Australia,MS Wade,MEK Hussey,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+130,ball,1,18.1,Australia,MS Wade,MEK Hussey,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+131,ball,1,18.2,Australia,MEK Hussey,MS Wade,R Sharma,2.0,0.0,,,Australia_India,2012/02/05
+132,ball,1,18.3,Australia,MEK Hussey,MS Wade,R Sharma,2.0,0.0,,,Australia_India,2012/02/05
+133,ball,1,18.4,Australia,MEK Hussey,MS Wade,R Sharma,0.0,0.0,,,Australia_India,2012/02/05
+134,ball,1,18.5,Australia,MEK Hussey,MS Wade,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+135,ball,1,18.6,Australia,MS Wade,MEK Hussey,R Sharma,0.0,0.0,,,Australia_India,2012/02/05
+136,ball,1,19.1,Australia,MEK Hussey,MS Wade,R Ashwin,4.0,0.0,,,Australia_India,2012/02/05
+137,ball,1,19.2,Australia,MEK Hussey,MS Wade,R Ashwin,2.0,0.0,,,Australia_India,2012/02/05
+138,ball,1,19.3,Australia,MEK Hussey,MS Wade,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+139,ball,1,19.4,Australia,MS Wade,MEK Hussey,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+140,ball,1,19.5,Australia,MEK Hussey,MS Wade,R Ashwin,4.0,0.0,,,Australia_India,2012/02/05
+141,ball,1,19.6,Australia,MEK Hussey,MS Wade,R Ashwin,2.0,0.0,,,Australia_India,2012/02/05
+142,ball,1,20.1,Australia,MS Wade,MEK Hussey,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+143,ball,1,20.2,Australia,MEK Hussey,MS Wade,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+144,ball,1,20.3,Australia,MS Wade,MEK Hussey,R Sharma,0.0,0.0,,,Australia_India,2012/02/05
+145,ball,1,20.4,Australia,MS Wade,MEK Hussey,R Sharma,0.0,0.0,,,Australia_India,2012/02/05
+146,ball,1,20.5,Australia,MS Wade,MEK Hussey,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+147,ball,1,20.6,Australia,MEK Hussey,MS Wade,R Sharma,2.0,0.0,,,Australia_India,2012/02/05
+148,ball,1,21.1,Australia,MS Wade,MEK Hussey,RA Jadeja,0.0,0.0,,,Australia_India,2012/02/05
+149,ball,1,21.2,Australia,MS Wade,MEK Hussey,RA Jadeja,2.0,0.0,,,Australia_India,2012/02/05
+150,ball,1,21.3,Australia,MS Wade,MEK Hussey,RA Jadeja,6.0,0.0,,,Australia_India,2012/02/05
+151,ball,1,21.4,Australia,MS Wade,MEK Hussey,RA Jadeja,2.0,0.0,,,Australia_India,2012/02/05
+152,ball,1,21.5,Australia,MS Wade,MEK Hussey,RA Jadeja,1.0,0.0,,,Australia_India,2012/02/05
+153,ball,1,21.6,Australia,MEK Hussey,MS Wade,RA Jadeja,1.0,0.0,,,Australia_India,2012/02/05
+154,ball,1,22.1,Australia,MEK Hussey,MS Wade,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+155,ball,1,22.2,Australia,MS Wade,MEK Hussey,R Sharma,2.0,0.0,,,Australia_India,2012/02/05
+156,ball,1,22.3,Australia,MS Wade,MEK Hussey,R Sharma,2.0,0.0,,,Australia_India,2012/02/05
+157,ball,1,22.4,Australia,MS Wade,MEK Hussey,R Sharma,0.0,0.0,,,Australia_India,2012/02/05
+158,ball,1,22.5,Australia,MS Wade,MEK Hussey,R Sharma,0.0,0.0,,,Australia_India,2012/02/05
+159,ball,1,22.6,Australia,MS Wade,MEK Hussey,R Sharma,0.0,0.0,bowled,MS Wade,Australia_India,2012/02/05
+160,ball,1,23.1,Australia,MEK Hussey,DJ Hussey,RA Jadeja,1.0,0.0,,,Australia_India,2012/02/05
+161,ball,1,23.2,Australia,DJ Hussey,MEK Hussey,RA Jadeja,3.0,0.0,,,Australia_India,2012/02/05
+162,ball,1,23.3,Australia,MEK Hussey,DJ Hussey,RA Jadeja,1.0,0.0,,,Australia_India,2012/02/05
+163,ball,1,23.4,Australia,DJ Hussey,MEK Hussey,RA Jadeja,0.0,0.0,,,Australia_India,2012/02/05
+164,ball,1,23.5,Australia,DJ Hussey,MEK Hussey,RA Jadeja,1.0,1.0,,,Australia_India,2012/02/05
+165,ball,1,23.6,Australia,MEK Hussey,DJ Hussey,RA Jadeja,4.0,0.0,,,Australia_India,2012/02/05
+166,ball,1,23.7,Australia,MEK Hussey,DJ Hussey,RA Jadeja,1.0,0.0,,,Australia_India,2012/02/05
+167,ball,1,24.1,Australia,MEK Hussey,DJ Hussey,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+168,ball,1,24.2,Australia,DJ Hussey,MEK Hussey,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+169,ball,1,24.3,Australia,MEK Hussey,DJ Hussey,R Sharma,0.0,0.0,,,Australia_India,2012/02/05
+170,ball,1,24.4,Australia,MEK Hussey,DJ Hussey,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+171,ball,1,24.5,Australia,DJ Hussey,MEK Hussey,R Sharma,0.0,0.0,,,Australia_India,2012/02/05
+172,ball,1,24.6,Australia,DJ Hussey,MEK Hussey,R Sharma,3.0,0.0,,,Australia_India,2012/02/05
+173,ball,1,25.1,Australia,DJ Hussey,MEK Hussey,R Ashwin,6.0,0.0,,,Australia_India,2012/02/05
+174,ball,1,25.2,Australia,DJ Hussey,MEK Hussey,R Ashwin,4.0,0.0,,,Australia_India,2012/02/05
+175,ball,1,25.3,Australia,DJ Hussey,MEK Hussey,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+176,ball,1,25.4,Australia,MEK Hussey,DJ Hussey,R Ashwin,0.0,0.0,,,Australia_India,2012/02/05
+177,ball,1,25.5,Australia,MEK Hussey,DJ Hussey,R Ashwin,1.0,0.0,,,Australia_India,2012/02/05
+178,ball,1,25.6,Australia,DJ Hussey,MEK Hussey,R Ashwin,2.0,0.0,,,Australia_India,2012/02/05
+179,ball,1,26.1,Australia,MEK Hussey,DJ Hussey,R Vinay Kumar,0.0,0.0,caught,MEK Hussey,Australia_India,2012/02/05
+180,ball,1,26.2,Australia,DJ Hussey,DT Christian,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+181,ball,1,26.3,Australia,DT Christian,DJ Hussey,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+182,ball,1,26.4,Australia,DJ Hussey,DT Christian,R Vinay Kumar,4.0,0.0,,,Australia_India,2012/02/05
+183,ball,1,26.5,Australia,DJ Hussey,DT Christian,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+184,ball,1,26.6,Australia,DT Christian,DJ Hussey,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+185,ball,1,27.1,Australia,DJ Hussey,DT Christian,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+186,ball,1,27.2,Australia,DT Christian,DJ Hussey,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+187,ball,1,27.3,Australia,DJ Hussey,DT Christian,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+188,ball,1,27.4,Australia,DT Christian,DJ Hussey,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+189,ball,1,27.5,Australia,DJ Hussey,DT Christian,R Sharma,0.0,1.0,,,Australia_India,2012/02/05
+190,ball,1,27.6,Australia,DJ Hussey,DT Christian,R Sharma,2.0,0.0,,,Australia_India,2012/02/05
+191,ball,1,27.7,Australia,DJ Hussey,DT Christian,R Sharma,2.0,0.0,,,Australia_India,2012/02/05
+192,ball,1,28.1,Australia,DT Christian,DJ Hussey,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+193,ball,1,28.2,Australia,DT Christian,DJ Hussey,R Vinay Kumar,0.0,0.0,,,Australia_India,2012/02/05
+194,ball,1,28.3,Australia,DT Christian,DJ Hussey,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+195,ball,1,28.4,Australia,DJ Hussey,DT Christian,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+196,ball,1,28.5,Australia,DT Christian,DJ Hussey,R Vinay Kumar,3.0,0.0,,,Australia_India,2012/02/05
+197,ball,1,28.6,Australia,DJ Hussey,DT Christian,R Vinay Kumar,1.0,0.0,,,Australia_India,2012/02/05
+198,ball,1,29.1,Australia,DJ Hussey,DT Christian,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+199,ball,1,29.2,Australia,DT Christian,DJ Hussey,R Sharma,3.0,0.0,,,Australia_India,2012/02/05
+200,ball,1,29.3,Australia,DJ Hussey,DT Christian,R Sharma,4.0,0.0,,,Australia_India,2012/02/05
+201,ball,1,29.4,Australia,DJ Hussey,DT Christian,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+202,ball,1,29.5,Australia,DT Christian,DJ Hussey,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+203,ball,1,29.6,Australia,DJ Hussey,DT Christian,R Sharma,1.0,0.0,,,Australia_India,2012/02/05
+204,ball,1,30.1,Australia,DJ Hussey,DT Christian,P Kumar,4.0,0.0,,,Australia_India,2012/02/05
+205,ball,1,30.2,Australia,DJ Hussey,DT Christian,P Kumar,0.0,1.0,,,Australia_India,2012/02/05
+206,ball,1,30.3,Australia,DT Christian,DJ Hussey,P Kumar,1.0,0.0,,,Australia_India,2012/02/05
+207,ball,1,30.4,Australia,DJ Hussey,DT Christian,P Kumar,2.0,0.0,,,Australia_India,2012/02/05
+208,ball,1,30.5,Australia,DJ Hussey,DT Christian,P Kumar,0.0,1.0,,,Australia_India,2012/02/05
+209,ball,1,30.6,Australia,DT Christian,DJ Hussey,P Kumar,1.0,0.0,,,Australia_India,2012/02/05
+210,ball,1,31.1,Australia,DT Christian,DJ Hussey,R Sharma,0.0,0.0,,,Australia_India,2012/02/05
+211,ball,1,31.2,Australia,DT Christian,DJ Hussey,R Sharma,2.0,0.0,,,Australia_India,2012/02/05
+212,ball,1,31.3,Australia,DT Christian,DJ Hussey,RA Jadeja,1.0,0.0,,,Australia_India,2012/02/05
+213,ball,1,31.4,Australia,DJ Hussey,DT Christian,RA Jadeja,6.0,0.0,,,Australia_India,2012/02/05
+214,ball,1,31.5,Australia,DJ Hussey,DT Christian,RA Jadeja,1.0,0.0,,,Australia_India,2012/02/05
+215,ball,1,31.6,Australia,DT Christian,DJ Hussey,RA Jadeja,0.0,1.0,,,Australia_India,2012/02/05
+216,ball,1,31.7,Australia,DT Christian,DJ Hussey,RA Jadeja,1.0,1.0,,,Australia_India,2012/02/05
+217,ball,1,31.8,Australia,DJ Hussey,DT Christian,RA Jadeja,6.0,0.0,,,Australia_India,2012/02/05
+218,ball,2,0.1,India,G Gambhir,SR Tendulkar,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+219,ball,2,0.2,India,G Gambhir,SR Tendulkar,RJ Harris,0.0,1.0,,,Australia_India,2012/02/05
+220,ball,2,0.3,India,G Gambhir,SR Tendulkar,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+221,ball,2,0.4,India,G Gambhir,SR Tendulkar,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+222,ball,2,0.5,India,G Gambhir,SR Tendulkar,RJ Harris,3.0,0.0,,,Australia_India,2012/02/05
+223,ball,2,0.6,India,SR Tendulkar,G Gambhir,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+224,ball,2,0.7,India,SR Tendulkar,G Gambhir,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+225,ball,2,1.1,India,G Gambhir,SR Tendulkar,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+226,ball,2,1.2,India,SR Tendulkar,G Gambhir,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+227,ball,2,1.3,India,SR Tendulkar,G Gambhir,MA Starc,0.0,1.0,,,Australia_India,2012/02/05
+228,ball,2,1.4,India,SR Tendulkar,G Gambhir,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+229,ball,2,1.5,India,SR Tendulkar,G Gambhir,MA Starc,0.0,1.0,,,Australia_India,2012/02/05
+230,ball,2,1.6,India,SR Tendulkar,G Gambhir,MA Starc,2.0,0.0,,,Australia_India,2012/02/05
+231,ball,2,1.7,India,SR Tendulkar,G Gambhir,MA Starc,0.0,0.0,caught,SR Tendulkar,Australia_India,2012/02/05
+232,ball,2,1.8,India,V Kohli,G Gambhir,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+233,ball,2,2.1,India,G Gambhir,V Kohli,RJ Harris,0.0,1.0,,,Australia_India,2012/02/05
+234,ball,2,2.2,India,G Gambhir,V Kohli,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+235,ball,2,2.3,India,G Gambhir,V Kohli,RJ Harris,1.0,0.0,,,Australia_India,2012/02/05
+236,ball,2,2.4,India,V Kohli,G Gambhir,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+237,ball,2,2.5,India,V Kohli,G Gambhir,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+238,ball,2,2.6,India,V Kohli,G Gambhir,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+239,ball,2,2.7,India,V Kohli,G Gambhir,RJ Harris,1.0,0.0,,,Australia_India,2012/02/05
+240,ball,2,3.1,India,V Kohli,G Gambhir,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+241,ball,2,3.2,India,V Kohli,G Gambhir,MA Starc,0.0,1.0,,,Australia_India,2012/02/05
+242,ball,2,3.3,India,G Gambhir,V Kohli,MA Starc,0.0,0.0,caught,G Gambhir,Australia_India,2012/02/05
+243,ball,2,3.4,India,RG Sharma,V Kohli,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+244,ball,2,3.5,India,RG Sharma,V Kohli,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+245,ball,2,3.6,India,RG Sharma,V Kohli,MA Starc,2.0,0.0,,,Australia_India,2012/02/05
+246,ball,2,4.1,India,V Kohli,RG Sharma,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+247,ball,2,4.2,India,V Kohli,RG Sharma,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+248,ball,2,4.3,India,V Kohli,RG Sharma,RJ Harris,1.0,0.0,,,Australia_India,2012/02/05
+249,ball,2,4.4,India,RG Sharma,V Kohli,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+250,ball,2,4.5,India,RG Sharma,V Kohli,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+251,ball,2,4.6,India,RG Sharma,V Kohli,RJ Harris,2.0,0.0,,,Australia_India,2012/02/05
+252,ball,2,5.1,India,V Kohli,RG Sharma,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+253,ball,2,5.2,India,V Kohli,RG Sharma,MA Starc,3.0,0.0,,,Australia_India,2012/02/05
+254,ball,2,5.3,India,RG Sharma,V Kohli,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+255,ball,2,5.4,India,RG Sharma,V Kohli,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+256,ball,2,5.5,India,V Kohli,RG Sharma,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+257,ball,2,5.6,India,V Kohli,RG Sharma,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+258,ball,2,6.1,India,RG Sharma,V Kohli,RJ Harris,1.0,0.0,,,Australia_India,2012/02/05
+259,ball,2,6.2,India,V Kohli,RG Sharma,RJ Harris,4.0,0.0,,,Australia_India,2012/02/05
+260,ball,2,6.3,India,V Kohli,RG Sharma,RJ Harris,1.0,0.0,,,Australia_India,2012/02/05
+261,ball,2,6.4,India,RG Sharma,V Kohli,RJ Harris,4.0,0.0,,,Australia_India,2012/02/05
+262,ball,2,6.5,India,RG Sharma,V Kohli,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+263,ball,2,6.6,India,RG Sharma,V Kohli,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+264,ball,2,7.1,India,V Kohli,RG Sharma,MA Starc,2.0,0.0,,,Australia_India,2012/02/05
+265,ball,2,7.2,India,V Kohli,RG Sharma,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+266,ball,2,7.3,India,V Kohli,RG Sharma,MA Starc,2.0,0.0,,,Australia_India,2012/02/05
+267,ball,2,7.4,India,V Kohli,RG Sharma,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+268,ball,2,7.5,India,V Kohli,RG Sharma,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+269,ball,2,7.6,India,RG Sharma,V Kohli,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+270,ball,2,8.1,India,RG Sharma,V Kohli,RJ Harris,1.0,0.0,,,Australia_India,2012/02/05
+271,ball,2,8.2,India,V Kohli,RG Sharma,RJ Harris,4.0,0.0,,,Australia_India,2012/02/05
+272,ball,2,8.3,India,V Kohli,RG Sharma,RJ Harris,2.0,0.0,,,Australia_India,2012/02/05
+273,ball,2,8.4,India,V Kohli,RG Sharma,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+274,ball,2,8.5,India,V Kohli,RG Sharma,RJ Harris,0.0,0.0,,,Australia_India,2012/02/05
+275,ball,2,8.6,India,V Kohli,RG Sharma,RJ Harris,1.0,0.0,,,Australia_India,2012/02/05
+276,ball,2,9.1,India,V Kohli,RG Sharma,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+277,ball,2,9.2,India,V Kohli,RG Sharma,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+278,ball,2,9.3,India,RG Sharma,V Kohli,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+279,ball,2,9.4,India,RG Sharma,V Kohli,MA Starc,2.0,0.0,,,Australia_India,2012/02/05
+280,ball,2,9.5,India,RG Sharma,V Kohli,MA Starc,4.0,0.0,,,Australia_India,2012/02/05
+281,ball,2,9.6,India,RG Sharma,V Kohli,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+282,ball,2,10.1,India,RG Sharma,V Kohli,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+283,ball,2,10.2,India,V Kohli,RG Sharma,DT Christian,4.0,0.0,,,Australia_India,2012/02/05
+284,ball,2,10.3,India,V Kohli,RG Sharma,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+285,ball,2,10.4,India,V Kohli,RG Sharma,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+286,ball,2,10.5,India,RG Sharma,V Kohli,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+287,ball,2,10.6,India,V Kohli,RG Sharma,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+288,ball,2,11.1,India,V Kohli,RG Sharma,CJ McKay,2.0,0.0,,,Australia_India,2012/02/05
+289,ball,2,11.2,India,V Kohli,RG Sharma,CJ McKay,0.0,0.0,caught,V Kohli,Australia_India,2012/02/05
+290,ball,2,11.3,India,SK Raina,RG Sharma,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+291,ball,2,11.4,India,RG Sharma,SK Raina,CJ McKay,0.0,0.0,caught,RG Sharma,Australia_India,2012/02/05
+292,ball,2,11.5,India,MS Dhoni,SK Raina,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+293,ball,2,11.6,India,SK Raina,MS Dhoni,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+294,ball,2,12.1,India,SK Raina,MS Dhoni,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+295,ball,2,12.2,India,SK Raina,MS Dhoni,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+296,ball,2,12.3,India,SK Raina,MS Dhoni,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+297,ball,2,12.4,India,SK Raina,MS Dhoni,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+298,ball,2,12.5,India,MS Dhoni,SK Raina,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+299,ball,2,12.6,India,MS Dhoni,SK Raina,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+300,ball,2,13.1,India,MS Dhoni,SK Raina,CJ McKay,4.0,0.0,,,Australia_India,2012/02/05
+301,ball,2,13.2,India,MS Dhoni,SK Raina,CJ McKay,0.0,0.0,,,Australia_India,2012/02/05
+302,ball,2,13.3,India,MS Dhoni,SK Raina,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+303,ball,2,13.4,India,SK Raina,MS Dhoni,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+304,ball,2,13.5,India,MS Dhoni,SK Raina,CJ McKay,0.0,1.0,,,Australia_India,2012/02/05
+305,ball,2,13.6,India,SK Raina,MS Dhoni,CJ McKay,0.0,0.0,,,Australia_India,2012/02/05
+306,ball,2,14.1,India,MS Dhoni,SK Raina,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+307,ball,2,14.2,India,SK Raina,MS Dhoni,DT Christian,0.0,0.0,caught,SK Raina,Australia_India,2012/02/05
+308,ball,2,14.3,India,RA Jadeja,MS Dhoni,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+309,ball,2,14.4,India,RA Jadeja,MS Dhoni,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+310,ball,2,14.5,India,MS Dhoni,RA Jadeja,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+311,ball,2,14.6,India,MS Dhoni,RA Jadeja,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+312,ball,2,15.1,India,MS Dhoni,RA Jadeja,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+313,ball,2,15.2,India,RA Jadeja,MS Dhoni,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+314,ball,2,15.3,India,MS Dhoni,RA Jadeja,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+315,ball,2,15.4,India,RA Jadeja,MS Dhoni,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+316,ball,2,15.5,India,MS Dhoni,RA Jadeja,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+317,ball,2,15.6,India,RA Jadeja,MS Dhoni,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+318,ball,2,16.1,India,MS Dhoni,RA Jadeja,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+319,ball,2,16.2,India,MS Dhoni,RA Jadeja,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+320,ball,2,16.3,India,MS Dhoni,RA Jadeja,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+321,ball,2,16.4,India,MS Dhoni,RA Jadeja,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+322,ball,2,16.5,India,RA Jadeja,MS Dhoni,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+323,ball,2,16.6,India,MS Dhoni,RA Jadeja,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+324,ball,2,17.1,India,MS Dhoni,RA Jadeja,XJ Doherty,2.0,0.0,,,Australia_India,2012/02/05
+325,ball,2,17.2,India,MS Dhoni,RA Jadeja,XJ Doherty,2.0,0.0,,,Australia_India,2012/02/05
+326,ball,2,17.3,India,MS Dhoni,RA Jadeja,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+327,ball,2,17.4,India,RA Jadeja,MS Dhoni,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+328,ball,2,17.5,India,RA Jadeja,MS Dhoni,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+329,ball,2,17.6,India,MS Dhoni,RA Jadeja,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+330,ball,2,18.1,India,RA Jadeja,MS Dhoni,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+331,ball,2,18.2,India,RA Jadeja,MS Dhoni,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+332,ball,2,18.3,India,MS Dhoni,RA Jadeja,DT Christian,0.0,0.0,,,Australia_India,2012/02/05
+333,ball,2,18.4,India,MS Dhoni,RA Jadeja,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+334,ball,2,18.5,India,RA Jadeja,MS Dhoni,DT Christian,1.0,0.0,,,Australia_India,2012/02/05
+335,ball,2,18.6,India,MS Dhoni,RA Jadeja,DT Christian,2.0,0.0,,,Australia_India,2012/02/05
+336,ball,2,19.1,India,RA Jadeja,MS Dhoni,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+337,ball,2,19.2,India,RA Jadeja,MS Dhoni,XJ Doherty,2.0,0.0,,,Australia_India,2012/02/05
+338,ball,2,19.3,India,RA Jadeja,MS Dhoni,XJ Doherty,2.0,0.0,,,Australia_India,2012/02/05
+339,ball,2,19.4,India,RA Jadeja,MS Dhoni,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+340,ball,2,19.5,India,MS Dhoni,RA Jadeja,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+341,ball,2,19.6,India,RA Jadeja,MS Dhoni,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+342,ball,2,20.1,India,RA Jadeja,MS Dhoni,CJ McKay,0.0,0.0,,,Australia_India,2012/02/05
+343,ball,2,20.2,India,RA Jadeja,MS Dhoni,CJ McKay,0.0,0.0,,,Australia_India,2012/02/05
+344,ball,2,20.3,India,RA Jadeja,MS Dhoni,CJ McKay,2.0,0.0,,,Australia_India,2012/02/05
+345,ball,2,20.4,India,RA Jadeja,MS Dhoni,CJ McKay,0.0,0.0,,,Australia_India,2012/02/05
+346,ball,2,20.5,India,RA Jadeja,MS Dhoni,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+347,ball,2,20.6,India,MS Dhoni,RA Jadeja,CJ McKay,0.0,0.0,,,Australia_India,2012/02/05
+348,ball,2,21.1,India,RA Jadeja,MS Dhoni,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+349,ball,2,21.2,India,MS Dhoni,RA Jadeja,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+350,ball,2,21.3,India,MS Dhoni,RA Jadeja,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+351,ball,2,21.4,India,MS Dhoni,RA Jadeja,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+352,ball,2,21.5,India,RA Jadeja,MS Dhoni,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+353,ball,2,21.6,India,MS Dhoni,RA Jadeja,XJ Doherty,0.0,1.0,,,Australia_India,2012/02/05
+354,ball,2,21.7,India,MS Dhoni,RA Jadeja,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+355,ball,2,22.1,India,RA Jadeja,MS Dhoni,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+356,ball,2,22.2,India,MS Dhoni,RA Jadeja,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+357,ball,2,22.3,India,RA Jadeja,MS Dhoni,CJ McKay,0.0,0.0,caught,RA Jadeja,Australia_India,2012/02/05
+358,ball,2,22.4,India,MS Dhoni,R Ashwin,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+359,ball,2,22.5,India,R Ashwin,MS Dhoni,CJ McKay,2.0,0.0,,,Australia_India,2012/02/05
+360,ball,2,22.6,India,R Ashwin,MS Dhoni,CJ McKay,1.0,0.0,,,Australia_India,2012/02/05
+361,ball,2,23.1,India,R Ashwin,MS Dhoni,XJ Doherty,2.0,0.0,run out,R Ashwin,Australia_India,2012/02/05
+362,ball,2,23.2,India,MS Dhoni,R Sharma,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+363,ball,2,23.3,India,R Sharma,MS Dhoni,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+364,ball,2,23.4,India,MS Dhoni,R Sharma,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+365,ball,2,23.5,India,R Sharma,MS Dhoni,XJ Doherty,0.0,0.0,bowled,R Sharma,Australia_India,2012/02/05
+366,ball,2,23.6,India,P Kumar,MS Dhoni,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+367,ball,2,24.1,India,P Kumar,MS Dhoni,MJ Clarke,0.0,0.0,,,Australia_India,2012/02/05
+368,ball,2,24.2,India,P Kumar,MS Dhoni,MJ Clarke,0.0,0.0,,,Australia_India,2012/02/05
+369,ball,2,24.3,India,P Kumar,MS Dhoni,MJ Clarke,0.0,0.0,,,Australia_India,2012/02/05
+370,ball,2,24.4,India,P Kumar,MS Dhoni,MJ Clarke,1.0,0.0,,,Australia_India,2012/02/05
+371,ball,2,24.5,India,MS Dhoni,P Kumar,MJ Clarke,1.0,0.0,,,Australia_India,2012/02/05
+372,ball,2,24.6,India,P Kumar,MS Dhoni,MJ Clarke,2.0,0.0,,,Australia_India,2012/02/05
+373,ball,2,25.1,India,MS Dhoni,P Kumar,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+374,ball,2,25.2,India,MS Dhoni,P Kumar,XJ Doherty,0.0,0.0,caught,MS Dhoni,Australia_India,2012/02/05
+375,ball,2,25.3,India,R Vinay Kumar,P Kumar,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+376,ball,2,25.4,India,R Vinay Kumar,P Kumar,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+377,ball,2,25.5,India,R Vinay Kumar,P Kumar,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+378,ball,2,25.6,India,R Vinay Kumar,P Kumar,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+379,ball,2,26.1,India,R Vinay Kumar,P Kumar,MJ Clarke,0.0,0.0,,,Australia_India,2012/02/05
+380,ball,2,26.2,India,R Vinay Kumar,P Kumar,MJ Clarke,1.0,0.0,,,Australia_India,2012/02/05
+381,ball,2,26.3,India,P Kumar,R Vinay Kumar,MJ Clarke,0.0,0.0,,,Australia_India,2012/02/05
+382,ball,2,26.4,India,P Kumar,R Vinay Kumar,MJ Clarke,4.0,0.0,,,Australia_India,2012/02/05
+383,ball,2,26.5,India,P Kumar,R Vinay Kumar,MJ Clarke,1.0,0.0,,,Australia_India,2012/02/05
+384,ball,2,26.6,India,R Vinay Kumar,P Kumar,MJ Clarke,1.0,0.0,,,Australia_India,2012/02/05
+385,ball,2,27.1,India,R Vinay Kumar,P Kumar,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+386,ball,2,27.2,India,R Vinay Kumar,P Kumar,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+387,ball,2,27.3,India,R Vinay Kumar,P Kumar,XJ Doherty,2.0,0.0,,,Australia_India,2012/02/05
+388,ball,2,27.4,India,R Vinay Kumar,P Kumar,XJ Doherty,1.0,0.0,,,Australia_India,2012/02/05
+389,ball,2,27.5,India,P Kumar,R Vinay Kumar,XJ Doherty,0.0,0.0,,,Australia_India,2012/02/05
+390,ball,2,27.6,India,P Kumar,R Vinay Kumar,XJ Doherty,4.0,0.0,,,Australia_India,2012/02/05
+391,ball,2,28.1,India,R Vinay Kumar,P Kumar,MA Starc,4.0,0.0,,,Australia_India,2012/02/05
+392,ball,2,28.2,India,R Vinay Kumar,P Kumar,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+393,ball,2,28.3,India,P Kumar,R Vinay Kumar,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+394,ball,2,28.4,India,R Vinay Kumar,P Kumar,MA Starc,0.0,0.0,,,Australia_India,2012/02/05
+395,ball,2,28.5,India,R Vinay Kumar,P Kumar,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+396,ball,2,28.6,India,P Kumar,R Vinay Kumar,MA Starc,1.0,0.0,,,Australia_India,2012/02/05
+397,ball,2,29.1,India,P Kumar,R Vinay Kumar,CJ McKay,0.0,0.0,,,Australia_India,2012/02/05
+398,ball,2,29.2,India,P Kumar,R Vinay Kumar,CJ McKay,0.0,0.0,,,Australia_India,2012/02/05
+399,ball,2,29.3,India,P Kumar,R Vinay Kumar,CJ McKay,0.0,0.0,,,Australia_India,2012/02/05
+400,ball,2,29.4,India,P Kumar,R Vinay Kumar,CJ McKay,0.0,0.0,caught,P Kumar,Australia_India,2012/02/05

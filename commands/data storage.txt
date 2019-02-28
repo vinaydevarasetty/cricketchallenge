@@ -1,0 +1,3 @@
+##Loading data into HDFS##
+
+hadoop fs -put *.csv /user/cloudera/Hackathon/Aus_Ind_ODI_Data/

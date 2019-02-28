@@ -1,0 +1,604 @@
+,a,b,c,d,e,f,g,h,i,j,k,teams_playing,date_played
+19,ball,1,0.1,Australia,PJ Hughes,AJ Finch,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+20,ball,1,0.2,Australia,PJ Hughes,AJ Finch,B Kumar,0.0,1.0,,,India_Australia,2013/10/13
+21,ball,1,0.3,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+22,ball,1,0.4,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+23,ball,1,0.5,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+24,ball,1,0.6,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+25,ball,1,1.1,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+26,ball,1,1.2,Australia,AJ Finch,PJ Hughes,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+27,ball,1,1.3,Australia,AJ Finch,PJ Hughes,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+28,ball,1,1.4,Australia,AJ Finch,PJ Hughes,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+29,ball,1,1.5,Australia,AJ Finch,PJ Hughes,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+30,ball,1,1.6,Australia,AJ Finch,PJ Hughes,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+31,ball,1,2.1,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+32,ball,1,2.2,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+33,ball,1,2.3,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+34,ball,1,2.4,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+35,ball,1,2.5,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+36,ball,1,2.6,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+37,ball,1,3.1,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+38,ball,1,3.2,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,3.0,0.0,,,India_Australia,2013/10/13
+39,ball,1,3.3,Australia,AJ Finch,PJ Hughes,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+40,ball,1,3.4,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,4.0,0.0,,,India_Australia,2013/10/13
+41,ball,1,3.5,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+42,ball,1,3.6,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+43,ball,1,4.1,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,1.0,,,India_Australia,2013/10/13
+44,ball,1,4.2,Australia,PJ Hughes,AJ Finch,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+45,ball,1,4.3,Australia,PJ Hughes,AJ Finch,B Kumar,1.0,0.0,,,India_Australia,2013/10/13
+46,ball,1,4.4,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+47,ball,1,4.5,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+48,ball,1,4.6,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+49,ball,1,5.1,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+50,ball,1,5.2,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+51,ball,1,5.3,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+52,ball,1,5.4,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+53,ball,1,5.5,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+54,ball,1,5.6,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,1.0,,,India_Australia,2013/10/13
+55,ball,1,6.1,Australia,PJ Hughes,AJ Finch,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+56,ball,1,6.2,Australia,PJ Hughes,AJ Finch,B Kumar,1.0,0.0,,,India_Australia,2013/10/13
+57,ball,1,6.3,Australia,AJ Finch,PJ Hughes,B Kumar,6.0,0.0,,,India_Australia,2013/10/13
+58,ball,1,6.4,Australia,AJ Finch,PJ Hughes,B Kumar,4.0,0.0,,,India_Australia,2013/10/13
+59,ball,1,6.5,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+60,ball,1,6.6,Australia,AJ Finch,PJ Hughes,B Kumar,4.0,0.0,,,India_Australia,2013/10/13
+61,ball,1,7.1,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+62,ball,1,7.2,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+63,ball,1,7.3,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,4.0,0.0,,,India_Australia,2013/10/13
+64,ball,1,7.4,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+65,ball,1,7.5,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+66,ball,1,7.6,Australia,PJ Hughes,AJ Finch,R Vinay Kumar,4.0,0.0,,,India_Australia,2013/10/13
+67,ball,1,8.1,Australia,AJ Finch,PJ Hughes,B Kumar,1.0,0.0,,,India_Australia,2013/10/13
+68,ball,1,8.2,Australia,PJ Hughes,AJ Finch,B Kumar,4.0,0.0,,,India_Australia,2013/10/13
+69,ball,1,8.3,Australia,PJ Hughes,AJ Finch,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+70,ball,1,8.4,Australia,PJ Hughes,AJ Finch,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+71,ball,1,8.5,Australia,PJ Hughes,AJ Finch,B Kumar,1.0,0.0,,,India_Australia,2013/10/13
+72,ball,1,8.6,Australia,AJ Finch,PJ Hughes,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+73,ball,1,9.1,Australia,PJ Hughes,AJ Finch,I Sharma,4.0,0.0,,,India_Australia,2013/10/13
+74,ball,1,9.2,Australia,PJ Hughes,AJ Finch,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+75,ball,1,9.3,Australia,PJ Hughes,AJ Finch,I Sharma,2.0,0.0,,,India_Australia,2013/10/13
+76,ball,1,9.4,Australia,PJ Hughes,AJ Finch,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+77,ball,1,9.5,Australia,PJ Hughes,AJ Finch,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+78,ball,1,9.6,Australia,AJ Finch,PJ Hughes,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+79,ball,1,10.1,Australia,PJ Hughes,AJ Finch,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+80,ball,1,10.2,Australia,PJ Hughes,AJ Finch,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+81,ball,1,10.3,Australia,PJ Hughes,AJ Finch,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+82,ball,1,10.4,Australia,AJ Finch,PJ Hughes,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+83,ball,1,10.5,Australia,PJ Hughes,AJ Finch,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+84,ball,1,10.6,Australia,PJ Hughes,AJ Finch,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+85,ball,1,11.1,Australia,PJ Hughes,AJ Finch,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+86,ball,1,11.2,Australia,AJ Finch,PJ Hughes,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+87,ball,1,11.3,Australia,AJ Finch,PJ Hughes,I Sharma,4.0,0.0,,,India_Australia,2013/10/13
+88,ball,1,11.4,Australia,AJ Finch,PJ Hughes,I Sharma,4.0,0.0,,,India_Australia,2013/10/13
+89,ball,1,11.5,Australia,AJ Finch,PJ Hughes,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+90,ball,1,11.6,Australia,AJ Finch,PJ Hughes,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+91,ball,1,12.1,Australia,AJ Finch,PJ Hughes,R Ashwin,6.0,0.0,,,India_Australia,2013/10/13
+92,ball,1,12.2,Australia,AJ Finch,PJ Hughes,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+93,ball,1,12.3,Australia,AJ Finch,PJ Hughes,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+94,ball,1,12.4,Australia,AJ Finch,PJ Hughes,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+95,ball,1,12.5,Australia,AJ Finch,PJ Hughes,R Ashwin,4.0,0.0,,,India_Australia,2013/10/13
+96,ball,1,12.6,Australia,AJ Finch,PJ Hughes,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+97,ball,1,13.1,Australia,PJ Hughes,AJ Finch,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+98,ball,1,13.2,Australia,AJ Finch,PJ Hughes,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+99,ball,1,13.3,Australia,PJ Hughes,AJ Finch,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+100,ball,1,13.4,Australia,PJ Hughes,AJ Finch,I Sharma,2.0,0.0,,,India_Australia,2013/10/13
+101,ball,1,13.5,Australia,PJ Hughes,AJ Finch,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+102,ball,1,13.6,Australia,PJ Hughes,AJ Finch,I Sharma,2.0,0.0,,,India_Australia,2013/10/13
+103,ball,1,14.1,Australia,AJ Finch,PJ Hughes,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+104,ball,1,14.2,Australia,AJ Finch,PJ Hughes,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+105,ball,1,14.3,Australia,AJ Finch,PJ Hughes,RA Jadeja,4.0,0.0,,,India_Australia,2013/10/13
+106,ball,1,14.4,Australia,AJ Finch,PJ Hughes,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+107,ball,1,14.5,Australia,PJ Hughes,AJ Finch,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+108,ball,1,14.6,Australia,AJ Finch,PJ Hughes,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+109,ball,1,15.1,Australia,PJ Hughes,AJ Finch,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+110,ball,1,15.2,Australia,AJ Finch,PJ Hughes,I Sharma,4.0,0.0,,,India_Australia,2013/10/13
+111,ball,1,15.3,Australia,AJ Finch,PJ Hughes,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+112,ball,1,15.4,Australia,PJ Hughes,AJ Finch,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+113,ball,1,15.5,Australia,AJ Finch,PJ Hughes,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+114,ball,1,15.6,Australia,AJ Finch,PJ Hughes,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+115,ball,1,16.1,Australia,PJ Hughes,AJ Finch,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+116,ball,1,16.2,Australia,AJ Finch,PJ Hughes,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+117,ball,1,16.3,Australia,AJ Finch,PJ Hughes,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+118,ball,1,16.4,Australia,AJ Finch,PJ Hughes,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+119,ball,1,16.5,Australia,AJ Finch,PJ Hughes,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+120,ball,1,16.6,Australia,PJ Hughes,AJ Finch,RA Jadeja,2.0,0.0,,,India_Australia,2013/10/13
+121,ball,1,17.1,Australia,AJ Finch,PJ Hughes,V Kohli,4.0,0.0,,,India_Australia,2013/10/13
+122,ball,1,17.2,Australia,AJ Finch,PJ Hughes,V Kohli,1.0,0.0,,,India_Australia,2013/10/13
+123,ball,1,17.3,Australia,PJ Hughes,AJ Finch,V Kohli,0.0,0.0,,,India_Australia,2013/10/13
+124,ball,1,17.4,Australia,PJ Hughes,AJ Finch,V Kohli,1.0,0.0,,,India_Australia,2013/10/13
+125,ball,1,17.5,Australia,AJ Finch,PJ Hughes,V Kohli,6.0,0.0,,,India_Australia,2013/10/13
+126,ball,1,17.6,Australia,AJ Finch,PJ Hughes,V Kohli,0.0,0.0,,,India_Australia,2013/10/13
+127,ball,1,18.1,Australia,PJ Hughes,AJ Finch,RA Jadeja,2.0,0.0,,,India_Australia,2013/10/13
+128,ball,1,18.2,Australia,PJ Hughes,AJ Finch,RA Jadeja,0.0,0.0,caught,PJ Hughes,India_Australia,2013/10/13
+129,ball,1,18.3,Australia,SR Watson,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+130,ball,1,18.4,Australia,SR Watson,AJ Finch,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+131,ball,1,18.5,Australia,AJ Finch,SR Watson,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+132,ball,1,18.6,Australia,SR Watson,AJ Finch,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+133,ball,1,19.1,Australia,SR Watson,AJ Finch,Yuvraj Singh,0.0,0.0,caught,SR Watson,India_Australia,2013/10/13
+134,ball,1,19.2,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+135,ball,1,19.3,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+136,ball,1,19.4,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+137,ball,1,19.5,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+138,ball,1,19.6,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+139,ball,1,20.1,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+140,ball,1,20.2,Australia,GJ Bailey,AJ Finch,RA Jadeja,4.0,0.0,,,India_Australia,2013/10/13
+141,ball,1,20.3,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+142,ball,1,20.4,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+143,ball,1,20.5,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+144,ball,1,20.6,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+145,ball,1,21.1,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+146,ball,1,21.2,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+147,ball,1,21.3,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+148,ball,1,21.4,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+149,ball,1,21.5,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+150,ball,1,21.6,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+151,ball,1,22.1,Australia,GJ Bailey,AJ Finch,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+152,ball,1,22.2,Australia,AJ Finch,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+153,ball,1,22.3,Australia,AJ Finch,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+154,ball,1,22.4,Australia,AJ Finch,GJ Bailey,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+155,ball,1,22.5,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+156,ball,1,22.6,Australia,GJ Bailey,AJ Finch,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+157,ball,1,23.1,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,4.0,0.0,,,India_Australia,2013/10/13
+158,ball,1,23.2,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+159,ball,1,23.3,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+160,ball,1,23.4,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+161,ball,1,23.5,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+162,ball,1,23.6,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+163,ball,1,24.1,Australia,AJ Finch,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+164,ball,1,24.2,Australia,AJ Finch,GJ Bailey,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+165,ball,1,24.3,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+166,ball,1,24.4,Australia,GJ Bailey,AJ Finch,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+167,ball,1,24.5,Australia,AJ Finch,GJ Bailey,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+168,ball,1,24.6,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+169,ball,1,25.1,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+170,ball,1,25.2,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+171,ball,1,25.3,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+172,ball,1,25.4,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,4.0,0.0,,,India_Australia,2013/10/13
+173,ball,1,25.5,Australia,GJ Bailey,AJ Finch,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+174,ball,1,25.6,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+175,ball,1,26.1,Australia,AJ Finch,GJ Bailey,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+176,ball,1,26.2,Australia,GJ Bailey,AJ Finch,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+177,ball,1,26.3,Australia,AJ Finch,GJ Bailey,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+178,ball,1,26.4,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+179,ball,1,26.5,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+180,ball,1,26.6,Australia,GJ Bailey,AJ Finch,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+181,ball,1,27.1,Australia,AJ Finch,GJ Bailey,Yuvraj Singh,0.0,0.0,caught,AJ Finch,India_Australia,2013/10/13
+182,ball,1,27.2,Australia,GJ Bailey,AC Voges,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+183,ball,1,27.3,Australia,GJ Bailey,AC Voges,Yuvraj Singh,2.0,0.0,,,India_Australia,2013/10/13
+184,ball,1,27.4,Australia,GJ Bailey,AC Voges,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+185,ball,1,27.5,Australia,AC Voges,GJ Bailey,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+186,ball,1,27.6,Australia,GJ Bailey,AC Voges,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+187,ball,1,28.1,Australia,AC Voges,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+188,ball,1,28.2,Australia,AC Voges,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+189,ball,1,28.3,Australia,AC Voges,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+190,ball,1,28.4,Australia,AC Voges,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+191,ball,1,28.5,Australia,AC Voges,GJ Bailey,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+192,ball,1,28.6,Australia,GJ Bailey,AC Voges,RA Jadeja,2.0,0.0,,,India_Australia,2013/10/13
+193,ball,1,29.1,Australia,AC Voges,GJ Bailey,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+194,ball,1,29.2,Australia,GJ Bailey,AC Voges,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+195,ball,1,29.3,Australia,GJ Bailey,AC Voges,Yuvraj Singh,4.0,0.0,,,India_Australia,2013/10/13
+196,ball,1,29.4,Australia,GJ Bailey,AC Voges,Yuvraj Singh,0.0,0.0,,,India_Australia,2013/10/13
+197,ball,1,29.5,Australia,GJ Bailey,AC Voges,Yuvraj Singh,4.0,0.0,,,India_Australia,2013/10/13
+198,ball,1,29.6,Australia,GJ Bailey,AC Voges,Yuvraj Singh,1.0,0.0,,,India_Australia,2013/10/13
+199,ball,1,30.1,Australia,GJ Bailey,AC Voges,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+200,ball,1,30.2,Australia,AC Voges,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+201,ball,1,30.3,Australia,AC Voges,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+202,ball,1,30.4,Australia,GJ Bailey,AC Voges,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+203,ball,1,30.5,Australia,AC Voges,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+204,ball,1,30.6,Australia,AC Voges,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+205,ball,1,31.1,Australia,AC Voges,GJ Bailey,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+206,ball,1,31.2,Australia,GJ Bailey,AC Voges,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+207,ball,1,31.3,Australia,GJ Bailey,AC Voges,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+208,ball,1,31.4,Australia,AC Voges,GJ Bailey,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+209,ball,1,31.5,Australia,GJ Bailey,AC Voges,I Sharma,2.0,0.0,,,India_Australia,2013/10/13
+210,ball,1,31.6,Australia,GJ Bailey,AC Voges,I Sharma,0.0,0.0,run out,AC Voges,India_Australia,2013/10/13
+211,ball,1,32.1,Australia,GJ Bailey,GJ Maxwell,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+212,ball,1,32.2,Australia,GJ Maxwell,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+213,ball,1,32.3,Australia,GJ Maxwell,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+214,ball,1,32.4,Australia,GJ Maxwell,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+215,ball,1,32.5,Australia,GJ Maxwell,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+216,ball,1,32.6,Australia,GJ Maxwell,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+217,ball,1,33.1,Australia,GJ Maxwell,GJ Bailey,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+218,ball,1,33.2,Australia,GJ Bailey,GJ Maxwell,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+219,ball,1,33.3,Australia,GJ Maxwell,GJ Bailey,I Sharma,4.0,0.0,,,India_Australia,2013/10/13
+220,ball,1,33.4,Australia,GJ Maxwell,GJ Bailey,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+221,ball,1,33.5,Australia,GJ Maxwell,GJ Bailey,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+222,ball,1,33.6,Australia,GJ Bailey,GJ Maxwell,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+223,ball,1,34.1,Australia,GJ Bailey,GJ Maxwell,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+224,ball,1,34.2,Australia,GJ Bailey,GJ Maxwell,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+225,ball,1,34.3,Australia,GJ Bailey,GJ Maxwell,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+226,ball,1,34.4,Australia,GJ Maxwell,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+227,ball,1,34.5,Australia,GJ Maxwell,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+228,ball,1,34.6,Australia,GJ Bailey,GJ Maxwell,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+229,ball,1,35.1,Australia,GJ Bailey,GJ Maxwell,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+230,ball,1,35.2,Australia,GJ Maxwell,GJ Bailey,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+231,ball,1,35.3,Australia,GJ Maxwell,GJ Bailey,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+232,ball,1,35.4,Australia,GJ Bailey,GJ Maxwell,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+233,ball,1,35.5,Australia,GJ Bailey,GJ Maxwell,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+234,ball,1,35.6,Australia,GJ Maxwell,GJ Bailey,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+235,ball,1,36.1,Australia,GJ Bailey,GJ Maxwell,R Ashwin,2.0,0.0,,,India_Australia,2013/10/13
+236,ball,1,36.2,Australia,GJ Bailey,GJ Maxwell,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+237,ball,1,36.3,Australia,GJ Maxwell,GJ Bailey,R Ashwin,6.0,0.0,,,India_Australia,2013/10/13
+238,ball,1,36.4,Australia,GJ Maxwell,GJ Bailey,R Ashwin,2.0,0.0,,,India_Australia,2013/10/13
+239,ball,1,36.5,Australia,GJ Maxwell,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+240,ball,1,36.6,Australia,GJ Maxwell,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+241,ball,1,37.1,Australia,GJ Maxwell,GJ Bailey,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+242,ball,1,37.2,Australia,GJ Bailey,GJ Maxwell,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+243,ball,1,37.3,Australia,GJ Maxwell,GJ Bailey,R Vinay Kumar,6.0,0.0,,,India_Australia,2013/10/13
+244,ball,1,37.4,Australia,GJ Maxwell,GJ Bailey,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+245,ball,1,37.5,Australia,GJ Maxwell,GJ Bailey,R Vinay Kumar,6.0,0.0,,,India_Australia,2013/10/13
+246,ball,1,37.6,Australia,GJ Maxwell,GJ Bailey,R Vinay Kumar,0.0,0.0,caught,GJ Maxwell,India_Australia,2013/10/13
+247,ball,1,38.1,Australia,GJ Bailey,BJ Haddin,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+248,ball,1,38.2,Australia,GJ Bailey,BJ Haddin,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+249,ball,1,38.3,Australia,GJ Bailey,BJ Haddin,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+250,ball,1,38.4,Australia,GJ Bailey,BJ Haddin,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+251,ball,1,38.5,Australia,BJ Haddin,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+252,ball,1,38.6,Australia,BJ Haddin,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+253,ball,1,39.1,Australia,GJ Bailey,BJ Haddin,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+254,ball,1,39.2,Australia,BJ Haddin,GJ Bailey,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+255,ball,1,39.3,Australia,BJ Haddin,GJ Bailey,R Vinay Kumar,4.0,0.0,,,India_Australia,2013/10/13
+256,ball,1,39.4,Australia,BJ Haddin,GJ Bailey,R Vinay Kumar,4.0,0.0,,,India_Australia,2013/10/13
+257,ball,1,39.5,Australia,BJ Haddin,GJ Bailey,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+258,ball,1,39.6,Australia,BJ Haddin,GJ Bailey,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+259,ball,1,40.1,Australia,GJ Bailey,BJ Haddin,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+260,ball,1,40.2,Australia,BJ Haddin,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+261,ball,1,40.3,Australia,BJ Haddin,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+262,ball,1,40.4,Australia,BJ Haddin,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+263,ball,1,40.5,Australia,GJ Bailey,BJ Haddin,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+264,ball,1,40.6,Australia,BJ Haddin,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+265,ball,1,41.1,Australia,GJ Bailey,BJ Haddin,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+266,ball,1,41.2,Australia,GJ Bailey,BJ Haddin,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+267,ball,1,41.3,Australia,GJ Bailey,BJ Haddin,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+268,ball,1,41.4,Australia,BJ Haddin,GJ Bailey,RA Jadeja,0.0,0.0,,,India_Australia,2013/10/13
+269,ball,1,41.5,Australia,BJ Haddin,GJ Bailey,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+270,ball,1,41.6,Australia,GJ Bailey,BJ Haddin,RA Jadeja,1.0,0.0,,,India_Australia,2013/10/13
+271,ball,1,42.1,Australia,GJ Bailey,BJ Haddin,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+272,ball,1,42.2,Australia,BJ Haddin,GJ Bailey,R Ashwin,0.0,0.0,lbw,BJ Haddin,India_Australia,2013/10/13
+273,ball,1,42.3,Australia,JP Faulkner,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+274,ball,1,42.4,Australia,GJ Bailey,JP Faulkner,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+275,ball,1,42.5,Australia,GJ Bailey,JP Faulkner,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+276,ball,1,42.6,Australia,JP Faulkner,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+277,ball,1,43.1,Australia,JP Faulkner,GJ Bailey,B Kumar,1.0,0.0,,,India_Australia,2013/10/13
+278,ball,1,43.2,Australia,GJ Bailey,JP Faulkner,B Kumar,4.0,0.0,,,India_Australia,2013/10/13
+279,ball,1,43.3,Australia,GJ Bailey,JP Faulkner,B Kumar,4.0,0.0,,,India_Australia,2013/10/13
+280,ball,1,43.4,Australia,GJ Bailey,JP Faulkner,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+281,ball,1,43.5,Australia,GJ Bailey,JP Faulkner,B Kumar,1.0,0.0,,,India_Australia,2013/10/13
+282,ball,1,43.6,Australia,JP Faulkner,GJ Bailey,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+283,ball,1,44.1,Australia,GJ Bailey,JP Faulkner,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+284,ball,1,44.2,Australia,JP Faulkner,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+285,ball,1,44.3,Australia,JP Faulkner,GJ Bailey,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+286,ball,1,44.4,Australia,JP Faulkner,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+287,ball,1,44.5,Australia,GJ Bailey,JP Faulkner,R Ashwin,4.0,0.0,,,India_Australia,2013/10/13
+288,ball,1,44.6,Australia,GJ Bailey,JP Faulkner,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+289,ball,1,45.1,Australia,GJ Bailey,JP Faulkner,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+290,ball,1,45.2,Australia,JP Faulkner,GJ Bailey,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+291,ball,1,45.3,Australia,JP Faulkner,GJ Bailey,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+292,ball,1,45.4,Australia,GJ Bailey,JP Faulkner,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+293,ball,1,45.5,Australia,JP Faulkner,GJ Bailey,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+294,ball,1,45.6,Australia,GJ Bailey,JP Faulkner,R Vinay Kumar,4.0,0.0,,,India_Australia,2013/10/13
+295,ball,1,46.1,Australia,JP Faulkner,GJ Bailey,R Ashwin,1.0,0.0,,,India_Australia,2013/10/13
+296,ball,1,46.2,Australia,GJ Bailey,JP Faulkner,R Ashwin,4.0,0.0,,,India_Australia,2013/10/13
+297,ball,1,46.3,Australia,GJ Bailey,JP Faulkner,R Ashwin,0.0,0.0,caught,GJ Bailey,India_Australia,2013/10/13
+298,ball,1,46.4,Australia,JP Faulkner,MG Johnson,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+299,ball,1,46.5,Australia,JP Faulkner,MG Johnson,R Ashwin,0.0,0.0,,,India_Australia,2013/10/13
+300,ball,1,46.6,Australia,JP Faulkner,MG Johnson,R Ashwin,2.0,0.0,,,India_Australia,2013/10/13
+301,ball,1,47.1,Australia,MG Johnson,JP Faulkner,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+302,ball,1,47.2,Australia,JP Faulkner,MG Johnson,R Vinay Kumar,2.0,0.0,,,India_Australia,2013/10/13
+303,ball,1,47.3,Australia,JP Faulkner,MG Johnson,R Vinay Kumar,6.0,0.0,,,India_Australia,2013/10/13
+304,ball,1,47.4,Australia,JP Faulkner,MG Johnson,R Vinay Kumar,6.0,0.0,,,India_Australia,2013/10/13
+305,ball,1,47.5,Australia,JP Faulkner,MG Johnson,R Vinay Kumar,1.0,0.0,,,India_Australia,2013/10/13
+306,ball,1,47.6,Australia,MG Johnson,JP Faulkner,R Vinay Kumar,0.0,0.0,,,India_Australia,2013/10/13
+307,ball,1,48.1,Australia,JP Faulkner,MG Johnson,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+308,ball,1,48.2,Australia,JP Faulkner,MG Johnson,B Kumar,1.0,0.0,,,India_Australia,2013/10/13
+309,ball,1,48.3,Australia,MG Johnson,JP Faulkner,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+310,ball,1,48.4,Australia,MG Johnson,JP Faulkner,B Kumar,4.0,0.0,,,India_Australia,2013/10/13
+311,ball,1,48.5,Australia,MG Johnson,JP Faulkner,B Kumar,4.0,0.0,,,India_Australia,2013/10/13
+312,ball,1,48.6,Australia,MG Johnson,JP Faulkner,B Kumar,0.0,0.0,,,India_Australia,2013/10/13
+313,ball,1,49.1,Australia,JP Faulkner,MG Johnson,I Sharma,2.0,0.0,,,India_Australia,2013/10/13
+314,ball,1,49.2,Australia,JP Faulkner,MG Johnson,I Sharma,0.0,0.0,caught,JP Faulkner,India_Australia,2013/10/13
+315,ball,1,49.3,Australia,CJ McKay,MG Johnson,I Sharma,0.0,0.0,,,India_Australia,2013/10/13
+316,ball,1,49.4,Australia,CJ McKay,MG Johnson,I Sharma,4.0,0.0,,,India_Australia,2013/10/13
+317,ball,1,49.5,Australia,CJ McKay,MG Johnson,I Sharma,6.0,0.0,,,India_Australia,2013/10/13
+318,ball,1,49.6,Australia,CJ McKay,MG Johnson,I Sharma,1.0,0.0,,,India_Australia,2013/10/13
+319,ball,2,0.1,India,S Dhawan,RG Sharma,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+320,ball,2,0.2,India,S Dhawan,RG Sharma,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+321,ball,2,0.3,India,RG Sharma,S Dhawan,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+322,ball,2,0.4,India,S Dhawan,RG Sharma,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+323,ball,2,0.5,India,S Dhawan,RG Sharma,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+324,ball,2,0.6,India,S Dhawan,RG Sharma,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+325,ball,2,1.1,India,RG Sharma,S Dhawan,CJ McKay,0.0,1.0,,,India_Australia,2013/10/13
+326,ball,2,1.2,India,RG Sharma,S Dhawan,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+327,ball,2,1.3,India,S Dhawan,RG Sharma,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+328,ball,2,1.4,India,RG Sharma,S Dhawan,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+329,ball,2,1.5,India,RG Sharma,S Dhawan,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+330,ball,2,1.6,India,RG Sharma,S Dhawan,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+331,ball,2,1.7,India,RG Sharma,S Dhawan,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+332,ball,2,2.1,India,RG Sharma,S Dhawan,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+333,ball,2,2.2,India,RG Sharma,S Dhawan,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+334,ball,2,2.3,India,RG Sharma,S Dhawan,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+335,ball,2,2.4,India,RG Sharma,S Dhawan,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+336,ball,2,2.5,India,RG Sharma,S Dhawan,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+337,ball,2,2.6,India,RG Sharma,S Dhawan,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+338,ball,2,3.1,India,RG Sharma,S Dhawan,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+339,ball,2,3.2,India,RG Sharma,S Dhawan,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+340,ball,2,3.3,India,S Dhawan,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+341,ball,2,3.4,India,S Dhawan,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+342,ball,2,3.5,India,S Dhawan,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+343,ball,2,3.6,India,S Dhawan,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+344,ball,2,4.1,India,RG Sharma,S Dhawan,MG Johnson,2.0,0.0,,,India_Australia,2013/10/13
+345,ball,2,4.2,India,RG Sharma,S Dhawan,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+346,ball,2,4.3,India,RG Sharma,S Dhawan,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+347,ball,2,4.4,India,RG Sharma,S Dhawan,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+348,ball,2,4.5,India,RG Sharma,S Dhawan,MG Johnson,4.0,0.0,,,India_Australia,2013/10/13
+349,ball,2,4.6,India,RG Sharma,S Dhawan,MG Johnson,0.0,1.0,,,India_Australia,2013/10/13
+350,ball,2,4.7,India,RG Sharma,S Dhawan,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+351,ball,2,5.1,India,S Dhawan,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+352,ball,2,5.2,India,S Dhawan,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+353,ball,2,5.3,India,S Dhawan,RG Sharma,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+354,ball,2,5.4,India,RG Sharma,S Dhawan,CJ McKay,4.0,0.0,,,India_Australia,2013/10/13
+355,ball,2,5.5,India,RG Sharma,S Dhawan,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+356,ball,2,5.6,India,RG Sharma,S Dhawan,CJ McKay,2.0,0.0,,,India_Australia,2013/10/13
+357,ball,2,6.1,India,S Dhawan,RG Sharma,JP Faulkner,4.0,0.0,,,India_Australia,2013/10/13
+358,ball,2,6.2,India,S Dhawan,RG Sharma,JP Faulkner,0.0,0.0,caught,S Dhawan,India_Australia,2013/10/13
+359,ball,2,6.3,India,V Kohli,RG Sharma,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+360,ball,2,6.4,India,V Kohli,RG Sharma,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+361,ball,2,6.5,India,V Kohli,RG Sharma,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+362,ball,2,6.6,India,V Kohli,RG Sharma,JP Faulkner,2.0,0.0,,,India_Australia,2013/10/13
+363,ball,2,7.1,India,RG Sharma,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+364,ball,2,7.2,India,RG Sharma,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+365,ball,2,7.3,India,RG Sharma,V Kohli,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+366,ball,2,7.4,India,V Kohli,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+367,ball,2,7.5,India,V Kohli,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+368,ball,2,7.6,India,V Kohli,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+369,ball,2,8.1,India,RG Sharma,V Kohli,JP Faulkner,4.0,0.0,,,India_Australia,2013/10/13
+370,ball,2,8.2,India,RG Sharma,V Kohli,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+371,ball,2,8.3,India,RG Sharma,V Kohli,JP Faulkner,4.0,0.0,,,India_Australia,2013/10/13
+372,ball,2,8.4,India,RG Sharma,V Kohli,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+373,ball,2,8.5,India,RG Sharma,V Kohli,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+374,ball,2,8.6,India,RG Sharma,V Kohli,JP Faulkner,4.0,0.0,,,India_Australia,2013/10/13
+375,ball,2,9.1,India,V Kohli,RG Sharma,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+376,ball,2,9.2,India,V Kohli,RG Sharma,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+377,ball,2,9.3,India,RG Sharma,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+378,ball,2,9.4,India,RG Sharma,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+379,ball,2,9.5,India,RG Sharma,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+380,ball,2,9.6,India,RG Sharma,V Kohli,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+381,ball,2,10.1,India,RG Sharma,V Kohli,XJ Doherty,2.0,0.0,,,India_Australia,2013/10/13
+382,ball,2,10.2,India,RG Sharma,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+383,ball,2,10.3,India,V Kohli,RG Sharma,XJ Doherty,4.0,0.0,,,India_Australia,2013/10/13
+384,ball,2,10.4,India,V Kohli,RG Sharma,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+385,ball,2,10.5,India,V Kohli,RG Sharma,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+386,ball,2,10.6,India,RG Sharma,V Kohli,XJ Doherty,4.0,0.0,,,India_Australia,2013/10/13
+387,ball,2,11.1,India,V Kohli,RG Sharma,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+388,ball,2,11.2,India,V Kohli,RG Sharma,SR Watson,2.0,0.0,,,India_Australia,2013/10/13
+389,ball,2,11.3,India,V Kohli,RG Sharma,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+390,ball,2,11.4,India,RG Sharma,V Kohli,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+391,ball,2,11.5,India,V Kohli,RG Sharma,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+392,ball,2,11.6,India,RG Sharma,V Kohli,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+393,ball,2,12.1,India,RG Sharma,V Kohli,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+394,ball,2,12.2,India,RG Sharma,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+395,ball,2,12.3,India,V Kohli,RG Sharma,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+396,ball,2,12.4,India,RG Sharma,V Kohli,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+397,ball,2,12.5,India,RG Sharma,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+398,ball,2,12.6,India,V Kohli,RG Sharma,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+399,ball,2,13.1,India,V Kohli,RG Sharma,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+400,ball,2,13.2,India,V Kohli,RG Sharma,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+401,ball,2,13.3,India,V Kohli,RG Sharma,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+402,ball,2,13.4,India,RG Sharma,V Kohli,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+403,ball,2,13.5,India,RG Sharma,V Kohli,SR Watson,0.0,0.0,caught,RG Sharma,India_Australia,2013/10/13
+404,ball,2,13.6,India,SK Raina,V Kohli,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+405,ball,2,14.1,India,V Kohli,SK Raina,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+406,ball,2,14.2,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+407,ball,2,14.3,India,V Kohli,SK Raina,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+408,ball,2,14.4,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+409,ball,2,14.5,India,V Kohli,SK Raina,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+410,ball,2,14.6,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+411,ball,2,15.1,India,SK Raina,V Kohli,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+412,ball,2,15.2,India,SK Raina,V Kohli,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+413,ball,2,15.3,India,V Kohli,SK Raina,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+414,ball,2,15.4,India,SK Raina,V Kohli,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+415,ball,2,15.5,India,SK Raina,V Kohli,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+416,ball,2,15.6,India,SK Raina,V Kohli,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+417,ball,2,16.1,India,SK Raina,V Kohli,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+418,ball,2,16.2,India,V Kohli,SK Raina,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+419,ball,2,16.3,India,V Kohli,SK Raina,MG Johnson,0.0,1.0,,,India_Australia,2013/10/13
+420,ball,2,16.4,India,SK Raina,V Kohli,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+421,ball,2,16.5,India,SK Raina,V Kohli,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+422,ball,2,16.6,India,V Kohli,SK Raina,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+423,ball,2,17.1,India,SK Raina,V Kohli,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+424,ball,2,17.2,India,SK Raina,V Kohli,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+425,ball,2,17.3,India,SK Raina,V Kohli,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+426,ball,2,17.4,India,V Kohli,SK Raina,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+427,ball,2,17.5,India,V Kohli,SK Raina,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+428,ball,2,17.6,India,V Kohli,SK Raina,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+429,ball,2,18.1,India,SK Raina,V Kohli,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+430,ball,2,18.2,India,SK Raina,V Kohli,MG Johnson,4.0,0.0,,,India_Australia,2013/10/13
+431,ball,2,18.3,India,SK Raina,V Kohli,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+432,ball,2,18.4,India,SK Raina,V Kohli,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+433,ball,2,18.5,India,V Kohli,SK Raina,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+434,ball,2,18.6,India,V Kohli,SK Raina,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+435,ball,2,19.1,India,V Kohli,SK Raina,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+436,ball,2,19.2,India,V Kohli,SK Raina,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+437,ball,2,19.3,India,V Kohli,SK Raina,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+438,ball,2,19.4,India,V Kohli,SK Raina,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+439,ball,2,19.5,India,SK Raina,V Kohli,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+440,ball,2,19.6,India,V Kohli,SK Raina,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+441,ball,2,20.1,India,SK Raina,V Kohli,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+442,ball,2,20.2,India,SK Raina,V Kohli,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+443,ball,2,20.3,India,SK Raina,V Kohli,XJ Doherty,4.0,0.0,,,India_Australia,2013/10/13
+444,ball,2,20.4,India,SK Raina,V Kohli,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+445,ball,2,20.5,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+446,ball,2,20.6,India,V Kohli,SK Raina,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+447,ball,2,21.1,India,SK Raina,V Kohli,AC Voges,0.0,0.0,,,India_Australia,2013/10/13
+448,ball,2,21.2,India,SK Raina,V Kohli,AC Voges,1.0,0.0,,,India_Australia,2013/10/13
+449,ball,2,21.3,India,V Kohli,SK Raina,AC Voges,4.0,0.0,,,India_Australia,2013/10/13
+450,ball,2,21.4,India,V Kohli,SK Raina,AC Voges,4.0,0.0,,,India_Australia,2013/10/13
+451,ball,2,21.5,India,V Kohli,SK Raina,AC Voges,0.0,0.0,,,India_Australia,2013/10/13
+452,ball,2,21.6,India,V Kohli,SK Raina,AC Voges,0.0,0.0,,,India_Australia,2013/10/13
+453,ball,2,22.1,India,SK Raina,V Kohli,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+454,ball,2,22.2,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+455,ball,2,22.3,India,V Kohli,SK Raina,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+456,ball,2,22.4,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+457,ball,2,22.5,India,V Kohli,SK Raina,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+458,ball,2,22.6,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+459,ball,2,23.1,India,SK Raina,V Kohli,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+460,ball,2,23.2,India,V Kohli,SK Raina,JP Faulkner,4.0,0.0,,,India_Australia,2013/10/13
+461,ball,2,23.3,India,V Kohli,SK Raina,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+462,ball,2,23.4,India,SK Raina,V Kohli,JP Faulkner,0.0,1.0,,,India_Australia,2013/10/13
+463,ball,2,23.5,India,SK Raina,V Kohli,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+464,ball,2,23.6,India,V Kohli,SK Raina,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+465,ball,2,23.7,India,V Kohli,SK Raina,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+466,ball,2,24.1,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+467,ball,2,24.2,India,V Kohli,SK Raina,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+468,ball,2,24.3,India,SK Raina,V Kohli,XJ Doherty,6.0,0.0,,,India_Australia,2013/10/13
+469,ball,2,24.4,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+470,ball,2,24.5,India,V Kohli,SK Raina,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+471,ball,2,24.6,India,SK Raina,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+472,ball,2,25.1,India,SK Raina,V Kohli,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+473,ball,2,25.2,India,SK Raina,V Kohli,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+474,ball,2,25.3,India,V Kohli,SK Raina,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+475,ball,2,25.4,India,V Kohli,SK Raina,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+476,ball,2,25.5,India,SK Raina,V Kohli,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+477,ball,2,25.6,India,V Kohli,SK Raina,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+478,ball,2,26.1,India,V Kohli,SK Raina,CJ McKay,4.0,0.0,,,India_Australia,2013/10/13
+479,ball,2,26.2,India,V Kohli,SK Raina,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+480,ball,2,26.3,India,SK Raina,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+481,ball,2,26.4,India,SK Raina,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+482,ball,2,26.5,India,SK Raina,V Kohli,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+483,ball,2,26.6,India,V Kohli,SK Raina,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+484,ball,2,27.1,India,SK Raina,V Kohli,JP Faulkner,2.0,0.0,,,India_Australia,2013/10/13
+485,ball,2,27.2,India,SK Raina,V Kohli,JP Faulkner,0.0,0.0,caught,SK Raina,India_Australia,2013/10/13
+486,ball,2,27.3,India,V Kohli,Yuvraj Singh,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+487,ball,2,27.4,India,Yuvraj Singh,V Kohli,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+488,ball,2,27.5,India,Yuvraj Singh,V Kohli,JP Faulkner,6.0,0.0,,,India_Australia,2013/10/13
+489,ball,2,27.6,India,Yuvraj Singh,V Kohli,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+490,ball,2,28.1,India,V Kohli,Yuvraj Singh,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+491,ball,2,28.2,India,Yuvraj Singh,V Kohli,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+492,ball,2,28.3,India,V Kohli,Yuvraj Singh,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+493,ball,2,28.4,India,Yuvraj Singh,V Kohli,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+494,ball,2,28.5,India,Yuvraj Singh,V Kohli,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+495,ball,2,28.6,India,Yuvraj Singh,V Kohli,MG Johnson,0.0,0.0,caught,Yuvraj Singh,India_Australia,2013/10/13
+496,ball,2,29.1,India,V Kohli,MS Dhoni,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+497,ball,2,29.2,India,MS Dhoni,V Kohli,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+498,ball,2,29.3,India,MS Dhoni,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+499,ball,2,29.4,India,V Kohli,MS Dhoni,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+500,ball,2,29.5,India,V Kohli,MS Dhoni,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+501,ball,2,29.6,India,V Kohli,MS Dhoni,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+502,ball,2,30.1,India,V Kohli,MS Dhoni,MG Johnson,4.0,0.0,,,India_Australia,2013/10/13
+503,ball,2,30.2,India,V Kohli,MS Dhoni,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+504,ball,2,30.3,India,V Kohli,MS Dhoni,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+505,ball,2,30.4,India,V Kohli,MS Dhoni,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+506,ball,2,30.5,India,V Kohli,MS Dhoni,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+507,ball,2,30.6,India,MS Dhoni,V Kohli,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+508,ball,2,31.1,India,V Kohli,MS Dhoni,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+509,ball,2,31.2,India,V Kohli,MS Dhoni,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+510,ball,2,31.3,India,V Kohli,MS Dhoni,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+511,ball,2,31.4,India,V Kohli,MS Dhoni,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+512,ball,2,31.5,India,V Kohli,MS Dhoni,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+513,ball,2,31.6,India,V Kohli,MS Dhoni,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+514,ball,2,32.1,India,MS Dhoni,V Kohli,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+515,ball,2,32.2,India,V Kohli,MS Dhoni,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+516,ball,2,32.3,India,MS Dhoni,V Kohli,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+517,ball,2,32.4,India,V Kohli,MS Dhoni,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+518,ball,2,32.5,India,V Kohli,MS Dhoni,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+519,ball,2,32.6,India,MS Dhoni,V Kohli,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+520,ball,2,33.1,India,MS Dhoni,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+521,ball,2,33.2,India,V Kohli,MS Dhoni,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+522,ball,2,33.3,India,V Kohli,MS Dhoni,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+523,ball,2,33.4,India,MS Dhoni,V Kohli,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+524,ball,2,33.5,India,V Kohli,MS Dhoni,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+525,ball,2,33.6,India,MS Dhoni,V Kohli,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+526,ball,2,34.1,India,V Kohli,MS Dhoni,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+527,ball,2,34.2,India,V Kohli,MS Dhoni,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+528,ball,2,34.3,India,V Kohli,MS Dhoni,SR Watson,2.0,0.0,,,India_Australia,2013/10/13
+529,ball,2,34.4,India,V Kohli,MS Dhoni,SR Watson,0.0,0.0,lbw,V Kohli,India_Australia,2013/10/13
+530,ball,2,34.5,India,RA Jadeja,MS Dhoni,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+531,ball,2,34.6,India,RA Jadeja,MS Dhoni,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+532,ball,2,35.1,India,RA Jadeja,MS Dhoni,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+533,ball,2,35.2,India,RA Jadeja,MS Dhoni,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+534,ball,2,35.3,India,RA Jadeja,MS Dhoni,JP Faulkner,2.0,0.0,,,India_Australia,2013/10/13
+535,ball,2,35.4,India,RA Jadeja,MS Dhoni,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+536,ball,2,35.5,India,RA Jadeja,MS Dhoni,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+537,ball,2,35.6,India,MS Dhoni,RA Jadeja,JP Faulkner,0.0,1.0,,,India_Australia,2013/10/13
+538,ball,2,36.1,India,MS Dhoni,RA Jadeja,SR Watson,4.0,0.0,,,India_Australia,2013/10/13
+539,ball,2,36.2,India,MS Dhoni,RA Jadeja,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+540,ball,2,36.3,India,MS Dhoni,RA Jadeja,SR Watson,0.0,1.0,,,India_Australia,2013/10/13
+541,ball,2,36.4,India,MS Dhoni,RA Jadeja,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+542,ball,2,36.5,India,MS Dhoni,RA Jadeja,SR Watson,4.0,0.0,,,India_Australia,2013/10/13
+543,ball,2,36.6,India,MS Dhoni,RA Jadeja,SR Watson,1.0,0.0,,,India_Australia,2013/10/13
+544,ball,2,36.7,India,RA Jadeja,MS Dhoni,SR Watson,0.0,0.0,,,India_Australia,2013/10/13
+545,ball,2,37.1,India,MS Dhoni,RA Jadeja,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+546,ball,2,37.2,India,MS Dhoni,RA Jadeja,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+547,ball,2,37.3,India,RA Jadeja,MS Dhoni,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+548,ball,2,37.4,India,MS Dhoni,RA Jadeja,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+549,ball,2,37.5,India,RA Jadeja,MS Dhoni,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+550,ball,2,37.6,India,RA Jadeja,MS Dhoni,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+551,ball,2,38.1,India,MS Dhoni,RA Jadeja,CJ McKay,0.0,1.0,,,India_Australia,2013/10/13
+552,ball,2,38.2,India,RA Jadeja,MS Dhoni,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+553,ball,2,38.3,India,RA Jadeja,MS Dhoni,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+554,ball,2,38.4,India,RA Jadeja,MS Dhoni,CJ McKay,2.0,0.0,,,India_Australia,2013/10/13
+555,ball,2,38.5,India,RA Jadeja,MS Dhoni,CJ McKay,4.0,0.0,,,India_Australia,2013/10/13
+556,ball,2,38.6,India,RA Jadeja,MS Dhoni,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+557,ball,2,39.1,India,MS Dhoni,RA Jadeja,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+558,ball,2,39.2,India,RA Jadeja,MS Dhoni,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+559,ball,2,39.3,India,RA Jadeja,MS Dhoni,JP Faulkner,0.0,0.0,caught,RA Jadeja,India_Australia,2013/10/13
+560,ball,2,39.4,India,R Ashwin,MS Dhoni,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+561,ball,2,39.5,India,R Ashwin,MS Dhoni,JP Faulkner,0.0,0.0,,,India_Australia,2013/10/13
+562,ball,2,39.6,India,R Ashwin,MS Dhoni,JP Faulkner,1.0,0.0,,,India_Australia,2013/10/13
+563,ball,2,40.1,India,R Ashwin,MS Dhoni,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+564,ball,2,40.2,India,MS Dhoni,R Ashwin,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+565,ball,2,40.3,India,R Ashwin,MS Dhoni,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+566,ball,2,40.4,India,MS Dhoni,R Ashwin,CJ McKay,0.0,0.0,bowled,MS Dhoni,India_Australia,2013/10/13
+567,ball,2,40.5,India,B Kumar,R Ashwin,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+568,ball,2,40.6,India,B Kumar,R Ashwin,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+569,ball,2,41.1,India,R Ashwin,B Kumar,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+570,ball,2,41.2,India,B Kumar,R Ashwin,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+571,ball,2,41.3,India,R Ashwin,B Kumar,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+572,ball,2,41.4,India,R Ashwin,B Kumar,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+573,ball,2,41.5,India,R Ashwin,B Kumar,XJ Doherty,1.0,0.0,,,India_Australia,2013/10/13
+574,ball,2,41.6,India,B Kumar,R Ashwin,XJ Doherty,0.0,1.0,,,India_Australia,2013/10/13
+575,ball,2,41.7,India,B Kumar,R Ashwin,XJ Doherty,0.0,0.0,,,India_Australia,2013/10/13
+576,ball,2,42.1,India,R Ashwin,B Kumar,CJ McKay,0.0,0.0,caught,R Ashwin,India_Australia,2013/10/13
+577,ball,2,42.2,India,R Vinay Kumar,B Kumar,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+578,ball,2,42.3,India,R Vinay Kumar,B Kumar,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+579,ball,2,42.4,India,R Vinay Kumar,B Kumar,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+580,ball,2,42.5,India,R Vinay Kumar,B Kumar,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+581,ball,2,42.6,India,B Kumar,R Vinay Kumar,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+582,ball,2,43.1,India,B Kumar,R Vinay Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+583,ball,2,43.2,India,B Kumar,R Vinay Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+584,ball,2,43.3,India,B Kumar,R Vinay Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+585,ball,2,43.4,India,B Kumar,R Vinay Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+586,ball,2,43.5,India,B Kumar,R Vinay Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+587,ball,2,43.6,India,B Kumar,R Vinay Kumar,MG Johnson,4.0,0.0,,,India_Australia,2013/10/13
+588,ball,2,44.1,India,R Vinay Kumar,B Kumar,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+589,ball,2,44.2,India,R Vinay Kumar,B Kumar,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+590,ball,2,44.3,India,B Kumar,R Vinay Kumar,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+591,ball,2,44.4,India,R Vinay Kumar,B Kumar,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+592,ball,2,44.5,India,B Kumar,R Vinay Kumar,CJ McKay,1.0,0.0,,,India_Australia,2013/10/13
+593,ball,2,44.6,India,R Vinay Kumar,B Kumar,CJ McKay,0.0,0.0,,,India_Australia,2013/10/13
+594,ball,2,45.1,India,B Kumar,R Vinay Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+595,ball,2,45.2,India,B Kumar,R Vinay Kumar,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+596,ball,2,45.3,India,R Vinay Kumar,B Kumar,MG Johnson,4.0,0.0,,,India_Australia,2013/10/13
+597,ball,2,45.4,India,R Vinay Kumar,B Kumar,MG Johnson,0.0,1.0,,,India_Australia,2013/10/13
+598,ball,2,45.5,India,B Kumar,R Vinay Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+599,ball,2,45.6,India,B Kumar,R Vinay Kumar,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+600,ball,2,46.1,India,B Kumar,R Vinay Kumar,AC Voges,1.0,0.0,,,India_Australia,2013/10/13
+601,ball,2,46.2,India,R Vinay Kumar,B Kumar,AC Voges,1.0,0.0,,,India_Australia,2013/10/13
+602,ball,2,46.3,India,B Kumar,R Vinay Kumar,AC Voges,2.0,0.0,,,India_Australia,2013/10/13
+603,ball,2,46.4,India,B Kumar,R Vinay Kumar,AC Voges,0.0,2.0,,,India_Australia,2013/10/13
+604,ball,2,46.5,India,B Kumar,R Vinay Kumar,AC Voges,1.0,0.0,,,India_Australia,2013/10/13
+605,ball,2,46.6,India,R Vinay Kumar,B Kumar,AC Voges,1.0,0.0,,,India_Australia,2013/10/13
+606,ball,2,47.1,India,R Vinay Kumar,B Kumar,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+607,ball,2,47.2,India,B Kumar,R Vinay Kumar,MG Johnson,1.0,0.0,,,India_Australia,2013/10/13
+608,ball,2,47.3,India,R Vinay Kumar,B Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+609,ball,2,47.4,India,R Vinay Kumar,B Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+610,ball,2,47.5,India,R Vinay Kumar,B Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+611,ball,2,47.6,India,R Vinay Kumar,B Kumar,MG Johnson,0.0,0.0,,,India_Australia,2013/10/13
+612,ball,2,48.1,India,B Kumar,R Vinay Kumar,AC Voges,1.0,0.0,,,India_Australia,2013/10/13
+613,ball,2,48.2,India,R Vinay Kumar,B Kumar,AC Voges,1.0,0.0,,,India_Australia,2013/10/13
+614,ball,2,48.3,India,B Kumar,R Vinay Kumar,AC Voges,1.0,0.0,,,India_Australia,2013/10/13
+615,ball,2,48.4,India,R Vinay Kumar,B Kumar,AC Voges,0.0,0.0,bowled,R Vinay Kumar,India_Australia,2013/10/13
+616,ball,2,48.5,India,I Sharma,B Kumar,AC Voges,0.0,0.0,,,India_Australia,2013/10/13
+617,ball,2,48.6,India,I Sharma,B Kumar,AC Voges,0.0,0.0,,,India_Australia,2013/10/13
+618,ball,2,49.1,India,B Kumar,I Sharma,AJ Finch,1.0,0.0,,,India_Australia,2013/10/13
+619,ball,2,49.2,India,I Sharma,B Kumar,AJ Finch,1.0,0.0,,,India_Australia,2013/10/13
+620,ball,2,49.3,India,B Kumar,I Sharma,AJ Finch,0.0,0.0,,,India_Australia,2013/10/13
+621,ball,2,49.4,India,B Kumar,I Sharma,AJ Finch,0.0,0.0,caught,B Kumar,India_Australia,2013/10/13

@@ -1,0 +1,604 @@
+,a,b,c,d,e,f,g,h,i,j,k,teams_playing,date_played
+19,ball,1,0.1,Australia,SE Marsh,TD Paine,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+20,ball,1,0.2,Australia,SE Marsh,TD Paine,P Kumar,0.0,4.0,,,India_Australia,2010/10/20
+21,ball,1,0.3,Australia,SE Marsh,TD Paine,P Kumar,0.0,1.0,,,India_Australia,2010/10/20
+22,ball,1,0.4,Australia,TD Paine,SE Marsh,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+23,ball,1,0.5,Australia,TD Paine,SE Marsh,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+24,ball,1,0.6,Australia,TD Paine,SE Marsh,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+25,ball,1,1.1,Australia,SE Marsh,TD Paine,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+26,ball,1,1.2,Australia,SE Marsh,TD Paine,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+27,ball,1,1.3,Australia,SE Marsh,TD Paine,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+28,ball,1,1.4,Australia,SE Marsh,TD Paine,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+29,ball,1,1.5,Australia,SE Marsh,TD Paine,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+30,ball,1,1.6,Australia,SE Marsh,TD Paine,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+31,ball,1,2.1,Australia,TD Paine,SE Marsh,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+32,ball,1,2.2,Australia,TD Paine,SE Marsh,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+33,ball,1,2.3,Australia,TD Paine,SE Marsh,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+34,ball,1,2.4,Australia,TD Paine,SE Marsh,P Kumar,4.0,0.0,,,India_Australia,2010/10/20
+35,ball,1,2.5,Australia,TD Paine,SE Marsh,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+36,ball,1,2.6,Australia,TD Paine,SE Marsh,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+37,ball,1,3.1,Australia,TD Paine,SE Marsh,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+38,ball,1,3.2,Australia,TD Paine,SE Marsh,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+39,ball,1,3.3,Australia,TD Paine,SE Marsh,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+40,ball,1,3.4,Australia,SE Marsh,TD Paine,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+41,ball,1,3.5,Australia,SE Marsh,TD Paine,A Nehra,0.0,0.0,bowled,SE Marsh,India_Australia,2010/10/20
+42,ball,1,3.6,Australia,MJ Clarke,TD Paine,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+43,ball,1,4.1,Australia,TD Paine,MJ Clarke,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+44,ball,1,4.2,Australia,MJ Clarke,TD Paine,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+45,ball,1,4.3,Australia,MJ Clarke,TD Paine,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+46,ball,1,4.4,Australia,MJ Clarke,TD Paine,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+47,ball,1,4.5,Australia,MJ Clarke,TD Paine,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+48,ball,1,4.6,Australia,MJ Clarke,TD Paine,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+49,ball,1,5.1,Australia,TD Paine,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+50,ball,1,5.2,Australia,TD Paine,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+51,ball,1,5.3,Australia,TD Paine,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+52,ball,1,5.4,Australia,TD Paine,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+53,ball,1,5.5,Australia,TD Paine,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+54,ball,1,5.6,Australia,MJ Clarke,TD Paine,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+55,ball,1,6.1,Australia,TD Paine,MJ Clarke,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+56,ball,1,6.2,Australia,MJ Clarke,TD Paine,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+57,ball,1,6.3,Australia,MJ Clarke,TD Paine,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+58,ball,1,6.4,Australia,MJ Clarke,TD Paine,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+59,ball,1,6.5,Australia,MJ Clarke,TD Paine,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+60,ball,1,6.6,Australia,TD Paine,MJ Clarke,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+61,ball,1,7.1,Australia,MJ Clarke,TD Paine,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+62,ball,1,7.2,Australia,TD Paine,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+63,ball,1,7.3,Australia,TD Paine,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+64,ball,1,7.4,Australia,TD Paine,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+65,ball,1,7.5,Australia,TD Paine,MJ Clarke,A Nehra,0.0,0.0,caught,TD Paine,India_Australia,2010/10/20
+66,ball,1,7.6,Australia,MEK Hussey,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+67,ball,1,8.1,Australia,MJ Clarke,MEK Hussey,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+68,ball,1,8.2,Australia,MEK Hussey,MJ Clarke,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+69,ball,1,8.3,Australia,MEK Hussey,MJ Clarke,P Kumar,4.0,0.0,,,India_Australia,2010/10/20
+70,ball,1,8.4,Australia,MEK Hussey,MJ Clarke,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+71,ball,1,8.5,Australia,MEK Hussey,MJ Clarke,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+72,ball,1,8.6,Australia,MEK Hussey,MJ Clarke,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+73,ball,1,9.1,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+74,ball,1,9.2,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,4.0,0.0,,,India_Australia,2010/10/20
+75,ball,1,9.3,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+76,ball,1,9.4,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,4.0,0.0,,,India_Australia,2010/10/20
+77,ball,1,9.5,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+78,ball,1,9.6,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+79,ball,1,10.1,Australia,MJ Clarke,MEK Hussey,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+80,ball,1,10.2,Australia,MJ Clarke,MEK Hussey,P Kumar,4.0,0.0,,,India_Australia,2010/10/20
+81,ball,1,10.3,Australia,MJ Clarke,MEK Hussey,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+82,ball,1,10.4,Australia,MJ Clarke,MEK Hussey,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+83,ball,1,10.5,Australia,MJ Clarke,MEK Hussey,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+84,ball,1,10.6,Australia,MEK Hussey,MJ Clarke,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+85,ball,1,11.1,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+86,ball,1,11.2,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+87,ball,1,11.3,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+88,ball,1,11.4,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+89,ball,1,11.5,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+90,ball,1,11.6,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+91,ball,1,12.1,Australia,MEK Hussey,MJ Clarke,A Nehra,4.0,0.0,,,India_Australia,2010/10/20
+92,ball,1,12.2,Australia,MEK Hussey,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+93,ball,1,12.3,Australia,MEK Hussey,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+94,ball,1,12.4,Australia,MJ Clarke,MEK Hussey,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+95,ball,1,12.5,Australia,MJ Clarke,MEK Hussey,A Nehra,0.0,1.0,,,India_Australia,2010/10/20
+96,ball,1,12.6,Australia,MEK Hussey,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+97,ball,1,13.1,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+98,ball,1,13.2,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,4.0,0.0,,,India_Australia,2010/10/20
+99,ball,1,13.3,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+100,ball,1,13.4,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+101,ball,1,13.5,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+102,ball,1,13.6,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+103,ball,1,14.1,Australia,MJ Clarke,MEK Hussey,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+104,ball,1,14.2,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+105,ball,1,14.3,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+106,ball,1,14.4,Australia,MJ Clarke,MEK Hussey,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+107,ball,1,14.5,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+108,ball,1,14.6,Australia,MEK Hussey,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+109,ball,1,15.1,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+110,ball,1,15.2,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+111,ball,1,15.3,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+112,ball,1,15.4,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,2.0,0.0,,,India_Australia,2010/10/20
+113,ball,1,15.5,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+114,ball,1,15.6,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+115,ball,1,16.1,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+116,ball,1,16.2,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+117,ball,1,16.3,Australia,MJ Clarke,MEK Hussey,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+118,ball,1,16.4,Australia,MJ Clarke,MEK Hussey,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+119,ball,1,16.5,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+120,ball,1,16.6,Australia,MEK Hussey,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+121,ball,1,17.1,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+122,ball,1,17.2,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+123,ball,1,17.3,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+124,ball,1,17.4,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+125,ball,1,17.5,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+126,ball,1,17.6,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,1.0,,,India_Australia,2010/10/20
+127,ball,1,18.1,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+128,ball,1,18.2,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+129,ball,1,18.3,Australia,MJ Clarke,MEK Hussey,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+130,ball,1,18.4,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+131,ball,1,18.5,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+132,ball,1,18.6,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+133,ball,1,19.1,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+134,ball,1,19.2,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+135,ball,1,19.3,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+136,ball,1,19.4,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,4.0,0.0,,,India_Australia,2010/10/20
+137,ball,1,19.5,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+138,ball,1,19.6,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+139,ball,1,20.1,Australia,MJ Clarke,MEK Hussey,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+140,ball,1,20.2,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+141,ball,1,20.3,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+142,ball,1,20.4,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+143,ball,1,20.5,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+144,ball,1,20.6,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+145,ball,1,21.1,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+146,ball,1,21.2,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+147,ball,1,21.3,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+148,ball,1,21.4,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+149,ball,1,21.5,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+150,ball,1,21.6,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+151,ball,1,22.1,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+152,ball,1,22.2,Australia,MJ Clarke,MEK Hussey,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+153,ball,1,22.3,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+154,ball,1,22.4,Australia,MEK Hussey,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+155,ball,1,22.5,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+156,ball,1,22.6,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+157,ball,1,23.1,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+158,ball,1,23.2,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+159,ball,1,23.3,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+160,ball,1,23.4,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+161,ball,1,23.5,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,2.0,,,India_Australia,2010/10/20
+162,ball,1,23.6,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+163,ball,1,24.1,Australia,MEK Hussey,MJ Clarke,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+164,ball,1,24.2,Australia,MJ Clarke,MEK Hussey,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+165,ball,1,24.3,Australia,MEK Hussey,MJ Clarke,SK Raina,0.0,0.0,,,India_Australia,2010/10/20
+166,ball,1,24.4,Australia,MEK Hussey,MJ Clarke,SK Raina,0.0,0.0,,,India_Australia,2010/10/20
+167,ball,1,24.5,Australia,MEK Hussey,MJ Clarke,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+168,ball,1,24.6,Australia,MJ Clarke,MEK Hussey,SK Raina,2.0,0.0,,,India_Australia,2010/10/20
+169,ball,1,25.1,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+170,ball,1,25.2,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+171,ball,1,25.3,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,4.0,0.0,,,India_Australia,2010/10/20
+172,ball,1,25.4,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+173,ball,1,25.5,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+174,ball,1,25.6,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+175,ball,1,26.1,Australia,MJ Clarke,MEK Hussey,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+176,ball,1,26.2,Australia,MEK Hussey,MJ Clarke,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+177,ball,1,26.3,Australia,MJ Clarke,MEK Hussey,SK Raina,0.0,0.0,,,India_Australia,2010/10/20
+178,ball,1,26.4,Australia,MJ Clarke,MEK Hussey,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+179,ball,1,26.5,Australia,MEK Hussey,MJ Clarke,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+180,ball,1,26.6,Australia,MJ Clarke,MEK Hussey,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+181,ball,1,27.1,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+182,ball,1,27.2,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+183,ball,1,27.3,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,1.0,,,India_Australia,2010/10/20
+184,ball,1,27.4,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+185,ball,1,27.5,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+186,ball,1,27.6,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+187,ball,1,27.7,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+188,ball,1,28.1,Australia,MEK Hussey,MJ Clarke,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+189,ball,1,28.2,Australia,MJ Clarke,MEK Hussey,SK Raina,4.0,0.0,,,India_Australia,2010/10/20
+190,ball,1,28.3,Australia,MJ Clarke,MEK Hussey,SK Raina,0.0,0.0,,,India_Australia,2010/10/20
+191,ball,1,28.4,Australia,MJ Clarke,MEK Hussey,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+192,ball,1,28.5,Australia,MEK Hussey,MJ Clarke,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+193,ball,1,28.6,Australia,MJ Clarke,MEK Hussey,SK Raina,1.0,0.0,,,India_Australia,2010/10/20
+194,ball,1,29.1,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+195,ball,1,29.2,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+196,ball,1,29.3,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+197,ball,1,29.4,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+198,ball,1,29.5,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+199,ball,1,29.6,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+200,ball,1,30.1,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+201,ball,1,30.2,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+202,ball,1,30.3,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,2.0,0.0,,,India_Australia,2010/10/20
+203,ball,1,30.4,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+204,ball,1,30.5,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+205,ball,1,30.6,Australia,MEK Hussey,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+206,ball,1,31.1,Australia,MJ Clarke,MEK Hussey,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+207,ball,1,31.2,Australia,MJ Clarke,MEK Hussey,P Kumar,2.0,0.0,,,India_Australia,2010/10/20
+208,ball,1,31.3,Australia,MJ Clarke,MEK Hussey,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+209,ball,1,31.4,Australia,MJ Clarke,MEK Hussey,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+210,ball,1,31.5,Australia,MEK Hussey,MJ Clarke,P Kumar,2.0,0.0,,,India_Australia,2010/10/20
+211,ball,1,31.6,Australia,MEK Hussey,MJ Clarke,P Kumar,4.0,0.0,,,India_Australia,2010/10/20
+212,ball,1,32.1,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+213,ball,1,32.2,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+214,ball,1,32.3,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,2.0,0.0,,,India_Australia,2010/10/20
+215,ball,1,32.4,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+216,ball,1,32.5,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+217,ball,1,32.6,Australia,MJ Clarke,MEK Hussey,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+218,ball,1,33.1,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+219,ball,1,33.2,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+220,ball,1,33.3,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+221,ball,1,33.4,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,2.0,0.0,,,India_Australia,2010/10/20
+222,ball,1,33.5,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+223,ball,1,33.6,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+224,ball,1,34.1,Australia,MEK Hussey,MJ Clarke,R Ashwin,2.0,0.0,,,India_Australia,2010/10/20
+225,ball,1,34.2,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+226,ball,1,34.3,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+227,ball,1,34.4,Australia,MEK Hussey,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+228,ball,1,34.5,Australia,MEK Hussey,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+229,ball,1,34.6,Australia,MJ Clarke,MEK Hussey,R Ashwin,2.0,0.0,,,India_Australia,2010/10/20
+230,ball,1,35.1,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+231,ball,1,35.2,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,4.0,0.0,,,India_Australia,2010/10/20
+232,ball,1,35.3,Australia,MEK Hussey,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+233,ball,1,35.4,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+234,ball,1,35.5,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+235,ball,1,35.6,Australia,MJ Clarke,MEK Hussey,Yuvraj Singh,0.0,1.0,,,India_Australia,2010/10/20
+236,ball,1,36.1,Australia,MJ Clarke,MEK Hussey,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+237,ball,1,36.2,Australia,MEK Hussey,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+238,ball,1,36.3,Australia,MEK Hussey,MJ Clarke,R Ashwin,0.0,0.0,lbw,MEK Hussey,India_Australia,2010/10/20
+239,ball,1,36.4,Australia,CL White,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+240,ball,1,36.5,Australia,CL White,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+241,ball,1,36.6,Australia,CL White,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+242,ball,1,37.1,Australia,MJ Clarke,CL White,Yuvraj Singh,0.0,0.0,,,India_Australia,2010/10/20
+243,ball,1,37.2,Australia,MJ Clarke,CL White,Yuvraj Singh,2.0,0.0,,,India_Australia,2010/10/20
+244,ball,1,37.3,Australia,MJ Clarke,CL White,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+245,ball,1,37.4,Australia,CL White,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+246,ball,1,37.5,Australia,MJ Clarke,CL White,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+247,ball,1,37.6,Australia,CL White,MJ Clarke,Yuvraj Singh,1.0,0.0,,,India_Australia,2010/10/20
+248,ball,1,38.1,Australia,CL White,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+249,ball,1,38.2,Australia,CL White,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+250,ball,1,38.3,Australia,MJ Clarke,CL White,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+251,ball,1,38.4,Australia,MJ Clarke,CL White,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+252,ball,1,38.5,Australia,CL White,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+253,ball,1,38.6,Australia,CL White,MJ Clarke,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+254,ball,1,39.1,Australia,MJ Clarke,CL White,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+255,ball,1,39.2,Australia,CL White,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+256,ball,1,39.3,Australia,CL White,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+257,ball,1,39.4,Australia,CL White,MJ Clarke,A Nehra,4.0,0.0,,,India_Australia,2010/10/20
+258,ball,1,39.5,Australia,CL White,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+259,ball,1,39.6,Australia,MJ Clarke,CL White,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+260,ball,1,40.1,Australia,MJ Clarke,CL White,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+261,ball,1,40.2,Australia,MJ Clarke,CL White,R Ashwin,0.0,0.0,,,India_Australia,2010/10/20
+262,ball,1,40.3,Australia,MJ Clarke,CL White,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+263,ball,1,40.4,Australia,CL White,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+264,ball,1,40.5,Australia,MJ Clarke,CL White,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+265,ball,1,40.6,Australia,CL White,MJ Clarke,R Ashwin,1.0,0.0,,,India_Australia,2010/10/20
+266,ball,1,41.1,Australia,CL White,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+267,ball,1,41.2,Australia,CL White,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+268,ball,1,41.3,Australia,MJ Clarke,CL White,A Nehra,4.0,0.0,,,India_Australia,2010/10/20
+269,ball,1,41.4,Australia,MJ Clarke,CL White,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+270,ball,1,41.5,Australia,CL White,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+271,ball,1,41.6,Australia,MJ Clarke,CL White,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+272,ball,1,42.1,Australia,CL White,MJ Clarke,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+273,ball,1,42.2,Australia,MJ Clarke,CL White,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+274,ball,1,42.3,Australia,MJ Clarke,CL White,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+275,ball,1,42.4,Australia,CL White,MJ Clarke,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+276,ball,1,42.5,Australia,MJ Clarke,CL White,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+277,ball,1,42.6,Australia,CL White,MJ Clarke,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+278,ball,1,43.1,Australia,CL White,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+279,ball,1,43.2,Australia,MJ Clarke,CL White,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+280,ball,1,43.3,Australia,CL White,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+281,ball,1,43.4,Australia,CL White,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+282,ball,1,43.5,Australia,MJ Clarke,CL White,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+283,ball,1,43.6,Australia,CL White,MJ Clarke,A Nehra,2.0,0.0,,,India_Australia,2010/10/20
+284,ball,1,44.1,Australia,MJ Clarke,CL White,P Kumar,0.0,0.0,,,India_Australia,2010/10/20
+285,ball,1,44.2,Australia,MJ Clarke,CL White,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+286,ball,1,44.3,Australia,CL White,MJ Clarke,P Kumar,4.0,0.0,,,India_Australia,2010/10/20
+287,ball,1,44.4,Australia,CL White,MJ Clarke,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+288,ball,1,44.5,Australia,MJ Clarke,CL White,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+289,ball,1,44.6,Australia,CL White,MJ Clarke,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+290,ball,1,45.1,Australia,CL White,MJ Clarke,R Vinay Kumar,6.0,0.0,,,India_Australia,2010/10/20
+291,ball,1,45.2,Australia,CL White,MJ Clarke,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+292,ball,1,45.3,Australia,MJ Clarke,CL White,R Vinay Kumar,4.0,0.0,,,India_Australia,2010/10/20
+293,ball,1,45.4,Australia,MJ Clarke,CL White,R Vinay Kumar,4.0,0.0,,,India_Australia,2010/10/20
+294,ball,1,45.5,Australia,MJ Clarke,CL White,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+295,ball,1,45.6,Australia,CL White,MJ Clarke,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+296,ball,1,46.1,Australia,CL White,MJ Clarke,A Nehra,2.0,0.0,,,India_Australia,2010/10/20
+297,ball,1,46.2,Australia,CL White,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+298,ball,1,46.3,Australia,MJ Clarke,CL White,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+299,ball,1,46.4,Australia,CL White,MJ Clarke,A Nehra,4.0,0.0,,,India_Australia,2010/10/20
+300,ball,1,46.5,Australia,CL White,MJ Clarke,A Nehra,4.0,0.0,,,India_Australia,2010/10/20
+301,ball,1,46.6,Australia,CL White,MJ Clarke,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+302,ball,1,47.1,Australia,CL White,MJ Clarke,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+303,ball,1,47.2,Australia,MJ Clarke,CL White,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+304,ball,1,47.3,Australia,CL White,MJ Clarke,P Kumar,6.0,0.0,,,India_Australia,2010/10/20
+305,ball,1,47.4,Australia,CL White,MJ Clarke,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+306,ball,1,47.5,Australia,MJ Clarke,CL White,P Kumar,1.0,0.0,,,India_Australia,2010/10/20
+307,ball,1,47.6,Australia,CL White,MJ Clarke,P Kumar,6.0,0.0,,,India_Australia,2010/10/20
+308,ball,1,48.1,Australia,MJ Clarke,CL White,A Nehra,6.0,0.0,,,India_Australia,2010/10/20
+309,ball,1,48.2,Australia,MJ Clarke,CL White,A Nehra,1.0,0.0,,,India_Australia,2010/10/20
+310,ball,1,48.3,Australia,CL White,MJ Clarke,A Nehra,2.0,0.0,,,India_Australia,2010/10/20
+311,ball,1,48.4,Australia,CL White,MJ Clarke,A Nehra,2.0,0.0,,,India_Australia,2010/10/20
+312,ball,1,48.5,Australia,CL White,MJ Clarke,A Nehra,4.0,0.0,,,India_Australia,2010/10/20
+313,ball,1,48.6,Australia,CL White,MJ Clarke,A Nehra,0.0,0.0,,,India_Australia,2010/10/20
+314,ball,1,49.1,Australia,MJ Clarke,CL White,R Vinay Kumar,1.0,0.0,,,India_Australia,2010/10/20
+315,ball,1,49.2,Australia,CL White,MJ Clarke,R Vinay Kumar,6.0,0.0,,,India_Australia,2010/10/20
+316,ball,1,49.3,Australia,CL White,MJ Clarke,R Vinay Kumar,4.0,0.0,,,India_Australia,2010/10/20
+317,ball,1,49.4,Australia,CL White,MJ Clarke,R Vinay Kumar,0.0,0.0,,,India_Australia,2010/10/20
+318,ball,1,49.5,Australia,CL White,MJ Clarke,R Vinay Kumar,6.0,0.0,,,India_Australia,2010/10/20
+319,ball,1,49.6,Australia,CL White,MJ Clarke,R Vinay Kumar,6.0,0.0,,,India_Australia,2010/10/20
+320,ball,2,0.1,India,S Dhawan,M Vijay,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+321,ball,2,0.2,India,S Dhawan,M Vijay,CJ McKay,0.0,0.0,bowled,S Dhawan,India_Australia,2010/10/20
+322,ball,2,0.3,India,V Kohli,M Vijay,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+323,ball,2,0.4,India,V Kohli,M Vijay,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+324,ball,2,0.5,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+325,ball,2,0.6,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+326,ball,2,1.1,India,V Kohli,M Vijay,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+327,ball,2,1.2,India,V Kohli,M Vijay,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+328,ball,2,1.3,India,V Kohli,M Vijay,MA Starc,0.0,4.0,,,India_Australia,2010/10/20
+329,ball,2,1.4,India,V Kohli,M Vijay,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+330,ball,2,1.5,India,V Kohli,M Vijay,MA Starc,0.0,1.0,,,India_Australia,2010/10/20
+331,ball,2,1.6,India,V Kohli,M Vijay,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+332,ball,2,1.7,India,V Kohli,M Vijay,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+333,ball,2,2.1,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+334,ball,2,2.2,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+335,ball,2,2.3,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+336,ball,2,2.4,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+337,ball,2,2.5,India,M Vijay,V Kohli,CJ McKay,4.0,0.0,,,India_Australia,2010/10/20
+338,ball,2,2.6,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+339,ball,2,3.1,India,V Kohli,M Vijay,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+340,ball,2,3.2,India,V Kohli,M Vijay,MA Starc,2.0,0.0,,,India_Australia,2010/10/20
+341,ball,2,3.3,India,V Kohli,M Vijay,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+342,ball,2,3.4,India,V Kohli,M Vijay,MA Starc,4.0,0.0,,,India_Australia,2010/10/20
+343,ball,2,3.5,India,V Kohli,M Vijay,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+344,ball,2,3.6,India,V Kohli,M Vijay,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+345,ball,2,4.1,India,V Kohli,M Vijay,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+346,ball,2,4.2,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+347,ball,2,4.3,India,M Vijay,V Kohli,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+348,ball,2,4.4,India,V Kohli,M Vijay,CJ McKay,2.0,0.0,,,India_Australia,2010/10/20
+349,ball,2,4.5,India,V Kohli,M Vijay,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+350,ball,2,4.6,India,V Kohli,M Vijay,CJ McKay,2.0,0.0,,,India_Australia,2010/10/20
+351,ball,2,5.1,India,M Vijay,V Kohli,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+352,ball,2,5.2,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+353,ball,2,5.3,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+354,ball,2,5.4,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+355,ball,2,5.5,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+356,ball,2,5.6,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+357,ball,2,6.1,India,M Vijay,V Kohli,CJ McKay,4.0,0.0,,,India_Australia,2010/10/20
+358,ball,2,6.2,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+359,ball,2,6.3,India,M Vijay,V Kohli,CJ McKay,4.0,0.0,,,India_Australia,2010/10/20
+360,ball,2,6.4,India,M Vijay,V Kohli,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+361,ball,2,6.5,India,V Kohli,M Vijay,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+362,ball,2,6.6,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+363,ball,2,7.1,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+364,ball,2,7.2,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+365,ball,2,7.3,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+366,ball,2,7.4,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+367,ball,2,7.5,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+368,ball,2,7.6,India,V Kohli,M Vijay,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+369,ball,2,8.1,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+370,ball,2,8.2,India,M Vijay,V Kohli,CJ McKay,0.0,1.0,,,India_Australia,2010/10/20
+371,ball,2,8.3,India,M Vijay,V Kohli,CJ McKay,0.0,0.0,caught,M Vijay,India_Australia,2010/10/20
+372,ball,2,8.4,India,Yuvraj Singh,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+373,ball,2,8.5,India,Yuvraj Singh,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+374,ball,2,8.6,India,Yuvraj Singh,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+375,ball,2,8.7,India,Yuvraj Singh,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+376,ball,2,9.1,India,V Kohli,Yuvraj Singh,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+377,ball,2,9.2,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+378,ball,2,9.3,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+379,ball,2,9.4,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+380,ball,2,9.5,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+381,ball,2,9.6,India,Yuvraj Singh,V Kohli,JW Hastings,4.0,0.0,,,India_Australia,2010/10/20
+382,ball,2,10.1,India,V Kohli,Yuvraj Singh,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+383,ball,2,10.2,India,V Kohli,Yuvraj Singh,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+384,ball,2,10.3,India,Yuvraj Singh,V Kohli,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+385,ball,2,10.4,India,V Kohli,Yuvraj Singh,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+386,ball,2,10.5,India,Yuvraj Singh,V Kohli,CJ McKay,4.0,0.0,,,India_Australia,2010/10/20
+387,ball,2,10.6,India,Yuvraj Singh,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+388,ball,2,11.1,India,V Kohli,Yuvraj Singh,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+389,ball,2,11.2,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+390,ball,2,11.3,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+391,ball,2,11.4,India,Yuvraj Singh,V Kohli,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+392,ball,2,11.5,India,V Kohli,Yuvraj Singh,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+393,ball,2,11.6,India,V Kohli,Yuvraj Singh,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+394,ball,2,12.1,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+395,ball,2,12.2,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+396,ball,2,12.3,India,Yuvraj Singh,V Kohli,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+397,ball,2,12.4,India,V Kohli,Yuvraj Singh,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+398,ball,2,12.5,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+399,ball,2,12.6,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+400,ball,2,13.1,India,V Kohli,Yuvraj Singh,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+401,ball,2,13.2,India,V Kohli,Yuvraj Singh,JW Hastings,0.0,1.0,,,India_Australia,2010/10/20
+402,ball,2,13.3,India,V Kohli,Yuvraj Singh,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+403,ball,2,13.4,India,V Kohli,Yuvraj Singh,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+404,ball,2,13.5,India,Yuvraj Singh,V Kohli,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+405,ball,2,13.6,India,V Kohli,Yuvraj Singh,JW Hastings,4.0,0.0,,,India_Australia,2010/10/20
+406,ball,2,13.7,India,V Kohli,Yuvraj Singh,JW Hastings,4.0,0.0,,,India_Australia,2010/10/20
+407,ball,2,14.1,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+408,ball,2,14.2,India,Yuvraj Singh,V Kohli,MA Starc,4.0,0.0,,,India_Australia,2010/10/20
+409,ball,2,14.3,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+410,ball,2,14.4,India,Yuvraj Singh,V Kohli,MA Starc,0.0,1.0,,,India_Australia,2010/10/20
+411,ball,2,14.5,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+412,ball,2,14.6,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+413,ball,2,14.7,India,Yuvraj Singh,V Kohli,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+414,ball,2,15.1,India,Yuvraj Singh,V Kohli,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+415,ball,2,15.2,India,V Kohli,Yuvraj Singh,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+416,ball,2,15.3,India,Yuvraj Singh,V Kohli,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+417,ball,2,15.4,India,V Kohli,Yuvraj Singh,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+418,ball,2,15.5,India,Yuvraj Singh,V Kohli,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+419,ball,2,15.6,India,V Kohli,Yuvraj Singh,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+420,ball,2,16.1,India,V Kohli,Yuvraj Singh,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+421,ball,2,16.2,India,V Kohli,Yuvraj Singh,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+422,ball,2,16.3,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+423,ball,2,16.4,India,Yuvraj Singh,V Kohli,NM Hauritz,2.0,0.0,,,India_Australia,2010/10/20
+424,ball,2,16.5,India,Yuvraj Singh,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+425,ball,2,16.6,India,Yuvraj Singh,V Kohli,NM Hauritz,4.0,0.0,,,India_Australia,2010/10/20
+426,ball,2,17.1,India,V Kohli,Yuvraj Singh,SPD Smith,4.0,0.0,,,India_Australia,2010/10/20
+427,ball,2,17.2,India,V Kohli,Yuvraj Singh,SPD Smith,1.0,0.0,,,India_Australia,2010/10/20
+428,ball,2,17.3,India,Yuvraj Singh,V Kohli,SPD Smith,2.0,0.0,,,India_Australia,2010/10/20
+429,ball,2,17.4,India,Yuvraj Singh,V Kohli,SPD Smith,1.0,0.0,,,India_Australia,2010/10/20
+430,ball,2,17.5,India,V Kohli,Yuvraj Singh,SPD Smith,0.0,0.0,,,India_Australia,2010/10/20
+431,ball,2,17.6,India,V Kohli,Yuvraj Singh,SPD Smith,1.0,0.0,,,India_Australia,2010/10/20
+432,ball,2,18.1,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+433,ball,2,18.2,India,Yuvraj Singh,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+434,ball,2,18.3,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+435,ball,2,18.4,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+436,ball,2,18.5,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+437,ball,2,18.6,India,V Kohli,Yuvraj Singh,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+438,ball,2,19.1,India,Yuvraj Singh,V Kohli,SPD Smith,1.0,0.0,,,India_Australia,2010/10/20
+439,ball,2,19.2,India,V Kohli,Yuvraj Singh,SPD Smith,1.0,0.0,,,India_Australia,2010/10/20
+440,ball,2,19.3,India,Yuvraj Singh,V Kohli,SPD Smith,0.0,0.0,,,India_Australia,2010/10/20
+441,ball,2,19.4,India,Yuvraj Singh,V Kohli,SPD Smith,1.0,0.0,,,India_Australia,2010/10/20
+442,ball,2,19.5,India,V Kohli,Yuvraj Singh,SPD Smith,2.0,0.0,,,India_Australia,2010/10/20
+443,ball,2,19.6,India,V Kohli,Yuvraj Singh,SPD Smith,1.0,0.0,,,India_Australia,2010/10/20
+444,ball,2,20.1,India,V Kohli,Yuvraj Singh,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+445,ball,2,20.2,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+446,ball,2,20.3,India,Yuvraj Singh,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+447,ball,2,20.4,India,Yuvraj Singh,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+448,ball,2,20.5,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+449,ball,2,20.6,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+450,ball,2,21.1,India,V Kohli,Yuvraj Singh,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+451,ball,2,21.2,India,V Kohli,Yuvraj Singh,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+452,ball,2,21.3,India,V Kohli,Yuvraj Singh,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+453,ball,2,21.4,India,V Kohli,Yuvraj Singh,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+454,ball,2,21.5,India,Yuvraj Singh,V Kohli,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+455,ball,2,21.6,India,Yuvraj Singh,V Kohli,JR Hopes,2.0,0.0,,,India_Australia,2010/10/20
+456,ball,2,22.1,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+457,ball,2,22.2,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+458,ball,2,22.3,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+459,ball,2,22.4,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+460,ball,2,22.5,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+461,ball,2,22.6,India,Yuvraj Singh,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+462,ball,2,23.1,India,V Kohli,Yuvraj Singh,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+463,ball,2,23.2,India,Yuvraj Singh,V Kohli,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+464,ball,2,23.3,India,V Kohli,Yuvraj Singh,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+465,ball,2,23.4,India,V Kohli,Yuvraj Singh,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+466,ball,2,23.5,India,Yuvraj Singh,V Kohli,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+467,ball,2,23.6,India,V Kohli,Yuvraj Singh,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+468,ball,2,24.1,India,Yuvraj Singh,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+469,ball,2,24.2,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+470,ball,2,24.3,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+471,ball,2,24.4,India,Yuvraj Singh,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+472,ball,2,24.5,India,Yuvraj Singh,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+473,ball,2,24.6,India,Yuvraj Singh,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+474,ball,2,25.1,India,V Kohli,Yuvraj Singh,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+475,ball,2,25.2,India,V Kohli,Yuvraj Singh,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+476,ball,2,25.3,India,Yuvraj Singh,V Kohli,JR Hopes,4.0,0.0,,,India_Australia,2010/10/20
+477,ball,2,25.4,India,Yuvraj Singh,V Kohli,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+478,ball,2,25.5,India,Yuvraj Singh,V Kohli,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+479,ball,2,25.6,India,Yuvraj Singh,V Kohli,JR Hopes,2.0,0.0,,,India_Australia,2010/10/20
+480,ball,2,26.1,India,V Kohli,Yuvraj Singh,NM Hauritz,0.0,1.0,,,India_Australia,2010/10/20
+481,ball,2,26.2,India,V Kohli,Yuvraj Singh,NM Hauritz,4.0,0.0,,,India_Australia,2010/10/20
+482,ball,2,26.3,India,V Kohli,Yuvraj Singh,NM Hauritz,0.0,1.0,,,India_Australia,2010/10/20
+483,ball,2,26.4,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+484,ball,2,26.5,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+485,ball,2,26.6,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+486,ball,2,26.7,India,V Kohli,Yuvraj Singh,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+487,ball,2,27.1,India,Yuvraj Singh,V Kohli,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+488,ball,2,27.2,India,Yuvraj Singh,V Kohli,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+489,ball,2,27.3,India,V Kohli,Yuvraj Singh,JR Hopes,4.0,0.0,,,India_Australia,2010/10/20
+490,ball,2,27.4,India,V Kohli,Yuvraj Singh,JR Hopes,2.0,0.0,,,India_Australia,2010/10/20
+491,ball,2,27.5,India,V Kohli,Yuvraj Singh,JR Hopes,4.0,0.0,,,India_Australia,2010/10/20
+492,ball,2,27.6,India,V Kohli,Yuvraj Singh,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+493,ball,2,28.1,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+494,ball,2,28.2,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+495,ball,2,28.3,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+496,ball,2,28.4,India,Yuvraj Singh,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+497,ball,2,28.5,India,V Kohli,Yuvraj Singh,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+498,ball,2,28.6,India,V Kohli,Yuvraj Singh,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+499,ball,2,29.1,India,V Kohli,Yuvraj Singh,JW Hastings,4.0,0.0,,,India_Australia,2010/10/20
+500,ball,2,29.2,India,V Kohli,Yuvraj Singh,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+501,ball,2,29.3,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,1.0,,,India_Australia,2010/10/20
+502,ball,2,29.4,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,4.0,,,India_Australia,2010/10/20
+503,ball,2,29.5,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+504,ball,2,29.6,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+505,ball,2,29.7,India,Yuvraj Singh,V Kohli,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+506,ball,2,30.1,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+507,ball,2,30.2,India,Yuvraj Singh,V Kohli,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+508,ball,2,30.3,India,V Kohli,Yuvraj Singh,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+509,ball,2,30.4,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+510,ball,2,30.5,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+511,ball,2,30.6,India,Yuvraj Singh,V Kohli,MA Starc,0.0,1.0,,,India_Australia,2010/10/20
+512,ball,2,30.7,India,Yuvraj Singh,V Kohli,MA Starc,0.0,1.0,,,India_Australia,2010/10/20
+513,ball,2,30.8,India,Yuvraj Singh,V Kohli,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+514,ball,2,31.1,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+515,ball,2,31.2,India,Yuvraj Singh,V Kohli,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+516,ball,2,31.3,India,V Kohli,Yuvraj Singh,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+517,ball,2,31.4,India,Yuvraj Singh,V Kohli,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+518,ball,2,31.5,India,Yuvraj Singh,V Kohli,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+519,ball,2,31.6,India,V Kohli,Yuvraj Singh,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+520,ball,2,32.1,India,Yuvraj Singh,V Kohli,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+521,ball,2,32.2,India,V Kohli,Yuvraj Singh,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+522,ball,2,32.3,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+523,ball,2,32.4,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+524,ball,2,32.5,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+525,ball,2,32.6,India,Yuvraj Singh,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+526,ball,2,33.1,India,V Kohli,Yuvraj Singh,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+527,ball,2,33.2,India,Yuvraj Singh,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+528,ball,2,33.3,India,Yuvraj Singh,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+529,ball,2,33.4,India,Yuvraj Singh,V Kohli,CJ McKay,0.0,0.0,bowled,Yuvraj Singh,India_Australia,2010/10/20
+530,ball,2,33.5,India,SK Raina,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+531,ball,2,33.6,India,SK Raina,V Kohli,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+532,ball,2,34.1,India,V Kohli,SK Raina,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+533,ball,2,34.2,India,SK Raina,V Kohli,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+534,ball,2,34.3,India,V Kohli,SK Raina,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+535,ball,2,34.4,India,V Kohli,SK Raina,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+536,ball,2,34.5,India,SK Raina,V Kohli,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+537,ball,2,34.6,India,V Kohli,SK Raina,MA Starc,4.0,0.0,,,India_Australia,2010/10/20
+538,ball,2,35.1,India,SK Raina,V Kohli,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+539,ball,2,35.2,India,SK Raina,V Kohli,JR Hopes,0.0,0.0,,,India_Australia,2010/10/20
+540,ball,2,35.3,India,SK Raina,V Kohli,JR Hopes,4.0,0.0,,,India_Australia,2010/10/20
+541,ball,2,35.4,India,SK Raina,V Kohli,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+542,ball,2,35.5,India,V Kohli,SK Raina,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+543,ball,2,35.6,India,SK Raina,V Kohli,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+544,ball,2,36.1,India,SK Raina,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+545,ball,2,36.2,India,SK Raina,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+546,ball,2,36.3,India,V Kohli,SK Raina,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+547,ball,2,36.4,India,SK Raina,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+548,ball,2,36.5,India,V Kohli,SK Raina,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+549,ball,2,36.6,India,SK Raina,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+550,ball,2,37.1,India,SK Raina,V Kohli,JR Hopes,2.0,0.0,,,India_Australia,2010/10/20
+551,ball,2,37.2,India,SK Raina,V Kohli,JR Hopes,4.0,0.0,,,India_Australia,2010/10/20
+552,ball,2,37.3,India,SK Raina,V Kohli,JR Hopes,4.0,0.0,,,India_Australia,2010/10/20
+553,ball,2,37.4,India,SK Raina,V Kohli,JR Hopes,4.0,0.0,,,India_Australia,2010/10/20
+554,ball,2,37.5,India,SK Raina,V Kohli,JR Hopes,2.0,0.0,,,India_Australia,2010/10/20
+555,ball,2,37.6,India,SK Raina,V Kohli,JR Hopes,1.0,0.0,,,India_Australia,2010/10/20
+556,ball,2,38.1,India,SK Raina,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+557,ball,2,38.2,India,V Kohli,SK Raina,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+558,ball,2,38.3,India,SK Raina,V Kohli,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+559,ball,2,38.4,India,V Kohli,SK Raina,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+560,ball,2,38.5,India,SK Raina,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+561,ball,2,38.6,India,SK Raina,V Kohli,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+562,ball,2,39.1,India,V Kohli,SK Raina,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+563,ball,2,39.2,India,SK Raina,V Kohli,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+564,ball,2,39.3,India,V Kohli,SK Raina,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+565,ball,2,39.4,India,SK Raina,V Kohli,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+566,ball,2,39.5,India,SK Raina,V Kohli,MA Starc,4.0,0.0,,,India_Australia,2010/10/20
+567,ball,2,39.6,India,SK Raina,V Kohli,MA Starc,4.0,0.0,,,India_Australia,2010/10/20
+568,ball,2,40.1,India,V Kohli,SK Raina,SPD Smith,0.0,0.0,,,India_Australia,2010/10/20
+569,ball,2,40.2,India,V Kohli,SK Raina,SPD Smith,0.0,0.0,,,India_Australia,2010/10/20
+570,ball,2,40.3,India,V Kohli,SK Raina,SPD Smith,2.0,0.0,,,India_Australia,2010/10/20
+571,ball,2,40.4,India,V Kohli,SK Raina,SPD Smith,1.0,0.0,,,India_Australia,2010/10/20
+572,ball,2,40.5,India,SK Raina,V Kohli,SPD Smith,4.0,0.0,,,India_Australia,2010/10/20
+573,ball,2,40.6,India,SK Raina,V Kohli,SPD Smith,1.0,0.0,,,India_Australia,2010/10/20
+574,ball,2,41.1,India,SK Raina,V Kohli,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+575,ball,2,41.2,India,V Kohli,SK Raina,JW Hastings,2.0,0.0,,,India_Australia,2010/10/20
+576,ball,2,41.3,India,V Kohli,SK Raina,JW Hastings,0.0,1.0,,,India_Australia,2010/10/20
+577,ball,2,41.4,India,V Kohli,SK Raina,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+578,ball,2,41.5,India,V Kohli,SK Raina,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+579,ball,2,41.6,India,SK Raina,V Kohli,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+580,ball,2,41.7,India,V Kohli,SK Raina,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+581,ball,2,42.1,India,V Kohli,SK Raina,CJ McKay,4.0,0.0,,,India_Australia,2010/10/20
+582,ball,2,42.2,India,V Kohli,SK Raina,CJ McKay,4.0,0.0,,,India_Australia,2010/10/20
+583,ball,2,42.3,India,V Kohli,SK Raina,CJ McKay,6.0,0.0,,,India_Australia,2010/10/20
+584,ball,2,42.4,India,V Kohli,SK Raina,CJ McKay,2.0,0.0,,,India_Australia,2010/10/20
+585,ball,2,42.5,India,V Kohli,SK Raina,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+586,ball,2,42.6,India,V Kohli,SK Raina,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+587,ball,2,43.1,India,SK Raina,V Kohli,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+588,ball,2,43.2,India,V Kohli,SK Raina,JW Hastings,0.0,0.0,caught,V Kohli,India_Australia,2010/10/20
+589,ball,2,43.3,India,SK Raina,MS Dhoni,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+590,ball,2,43.4,India,SK Raina,MS Dhoni,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+591,ball,2,43.5,India,SK Raina,MS Dhoni,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+592,ball,2,43.6,India,MS Dhoni,SK Raina,JW Hastings,0.0,0.0,bowled,MS Dhoni,India_Australia,2010/10/20
+593,ball,2,44.1,India,SK Raina,SS Tiwary,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+594,ball,2,44.2,India,SS Tiwary,SK Raina,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+595,ball,2,44.3,India,SS Tiwary,SK Raina,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+596,ball,2,44.4,India,SK Raina,SS Tiwary,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+597,ball,2,44.5,India,SS Tiwary,SK Raina,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+598,ball,2,44.6,India,SK Raina,SS Tiwary,CJ McKay,4.0,0.0,,,India_Australia,2010/10/20
+599,ball,2,45.1,India,SS Tiwary,SK Raina,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+600,ball,2,45.2,India,SS Tiwary,SK Raina,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+601,ball,2,45.3,India,SS Tiwary,SK Raina,JW Hastings,0.0,0.0,,,India_Australia,2010/10/20
+602,ball,2,45.4,India,SS Tiwary,SK Raina,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+603,ball,2,45.5,India,SK Raina,SS Tiwary,JW Hastings,4.0,0.0,,,India_Australia,2010/10/20
+604,ball,2,45.6,India,SK Raina,SS Tiwary,JW Hastings,1.0,0.0,,,India_Australia,2010/10/20
+605,ball,2,46.1,India,SK Raina,SS Tiwary,NM Hauritz,6.0,0.0,,,India_Australia,2010/10/20
+606,ball,2,46.2,India,SK Raina,SS Tiwary,NM Hauritz,0.0,0.0,,,India_Australia,2010/10/20
+607,ball,2,46.3,India,SK Raina,SS Tiwary,NM Hauritz,2.0,0.0,,,India_Australia,2010/10/20
+608,ball,2,46.4,India,SK Raina,SS Tiwary,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+609,ball,2,46.5,India,SS Tiwary,SK Raina,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+610,ball,2,46.6,India,SK Raina,SS Tiwary,NM Hauritz,1.0,0.0,,,India_Australia,2010/10/20
+611,ball,2,47.1,India,SK Raina,SS Tiwary,CJ McKay,1.0,0.0,,,India_Australia,2010/10/20
+612,ball,2,47.2,India,SS Tiwary,SK Raina,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+613,ball,2,47.3,India,SS Tiwary,SK Raina,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+614,ball,2,47.4,India,SS Tiwary,SK Raina,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+615,ball,2,47.5,India,SS Tiwary,SK Raina,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+616,ball,2,47.6,India,SS Tiwary,SK Raina,CJ McKay,0.0,0.0,,,India_Australia,2010/10/20
+617,ball,2,48.1,India,SK Raina,SS Tiwary,MA Starc,1.0,0.0,,,India_Australia,2010/10/20
+618,ball,2,48.2,India,SS Tiwary,SK Raina,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+619,ball,2,48.3,India,SS Tiwary,SK Raina,MA Starc,0.0,0.0,,,India_Australia,2010/10/20
+620,ball,2,48.4,India,SS Tiwary,SK Raina,MA Starc,4.0,0.0,,,India_Australia,2010/10/20
+621,ball,2,48.5,India,SS Tiwary,SK Raina,MA Starc,4.0,0.0,,,India_Australia,2010/10/20
